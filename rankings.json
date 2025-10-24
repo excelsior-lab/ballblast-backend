@@ -5,7 +5,7 @@
     "score": 20912,
     "level": 43,
     "platform": "iOS",
-    "createAt": "",
+    "createAt": "2025-10-25T07:20:16.193403",
     "regionCode": "CN"
   },
   {
@@ -14,7 +14,16 @@
     "score": 20912,
     "level": 43,
     "platform": "iOS",
-    "createAt": "",
+    "createAt": "2025-10-25T07:21:07.093997",
+    "regionCode": "CN"
+  },
+  {
+    "uid": "089cd7c0-09a4-4457-98d6-352e5fe5d322",
+    "username": "CleverShark528",
+    "score": 20912,
+    "level": 44,
+    "platform": "iOS",
+    "createAt": "2025-10-25T07:43:55.676004",
     "regionCode": "CN"
   },
   {
@@ -23,7 +32,7 @@
     "score": 19446,
     "level": 43,
     "platform": "iOS",
-    "createAt": "",
+    "createAt": "2025-10-25T07:19:51.341547",
     "regionCode": "CN"
   },
   {
@@ -32,7 +41,7 @@
     "score": 18634,
     "level": 40,
     "platform": "iOS",
-    "createAt": "",
+    "createAt": "2025-10-25T00:21:08.119555",
     "regionCode": "CN"
   },
   {
@@ -41,7 +50,7 @@
     "score": 18634,
     "level": 40,
     "platform": "iOS",
-    "createAt": "",
+    "createAt": "2025-10-25T00:19:12.759650",
     "regionCode": "CN"
   },
   {
@@ -50,7 +59,7 @@
     "score": 18634,
     "level": 40,
     "platform": "iOS",
-    "createAt": "",
+    "createAt": "2025-10-25T00:13:14.672401",
     "regionCode": "CN"
   },
   {
@@ -59,7 +68,7 @@
     "score": 18634,
     "level": 40,
     "platform": "iOS",
-    "createAt": "",
+    "createAt": "2025-10-25T00:04:14.528550",
     "regionCode": "CN"
   }
 ]
