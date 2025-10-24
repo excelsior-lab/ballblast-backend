@@ -26,7 +26,7 @@ async function main() {
       score: Number(f.score?.integerValue || 0),
       level: Number(f.level?.integerValue || 0),
       platform: f.platform?.stringValue || "",
-      createAt: f.createAt?.timestampValue || "",
+      createAt: f.createAt?.stringValue || "",
       regionCode: f.regionCode?.stringValue || "",
     };
   });
