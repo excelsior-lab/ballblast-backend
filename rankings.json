@@ -1,65 +1,11 @@
 [
   {
-    "uid": "292215b8-e3cb-480f-90b9-ba23ab430698",
-    "username": "WildTiger684",
-    "score": 47106,
-    "level": 50,
-    "platform": "iOS",
-    "createAt": "2025-10-25T16:25:52.027038",
-    "regionCode": "CN"
-  },
-  {
-    "uid": "336a3d89-26c0-4343-a867-278208bc120b",
-    "username": "BraveTiger245",
-    "score": 20912,
-    "level": 43,
-    "platform": "iOS",
-    "createAt": "2025-10-25T07:21:07.093997",
-    "regionCode": "CN"
-  },
-  {
-    "uid": "089cd7c0-09a4-4457-98d6-352e5fe5d322",
-    "username": "CleverShark528",
-    "score": 20912,
-    "level": 44,
-    "platform": "iOS",
-    "createAt": "2025-10-25T07:43:55.676004",
-    "regionCode": "CN"
-  },
-  {
-    "uid": "b0e5f145-9612-4c9d-be9e-702303149856",
-    "username": "HappyLion968",
-    "score": 20912,
-    "level": 44,
-    "platform": "iOS",
-    "createAt": "2025-10-25T07:54:54.195437",
-    "regionCode": "CN"
-  },
-  {
-    "uid": "887a7a0a-0d11-4b4e-8737-c7755be2a8f9",
-    "username": "CleverTiger319",
-    "score": 20912,
-    "level": 44,
-    "platform": "iOS",
-    "createAt": "2025-10-25T07:51:47.182015",
-    "regionCode": "CN"
-  },
-  {
-    "uid": "3b5dad81-25f3-4771-8f29-c9691ac5f63e",
-    "username": "BraveEagle598",
-    "score": 18634,
-    "level": 40,
-    "platform": "iOS",
-    "createAt": "2025-10-25T00:19:12.759650",
-    "regionCode": "CN"
-  },
-  {
-    "uid": "52d10f99-5ea4-4f90-8d1e-bfbc1613ef3a",
-    "username": "LuckyWolf767",
-    "score": 18634,
-    "level": 40,
-    "platform": "iOS",
-    "createAt": "2025-10-25T00:13:14.672401",
+    "uid": "UKQ1.240624.001",
+    "username": "bruce Springsteen",
+    "score": 8181,
+    "level": 21,
+    "platform": "Android",
+    "createAt": "2025-10-26T01:46:04.025685",
     "regionCode": "CN"
   },
   {
@@ -73,20 +19,11 @@
   },
   {
     "uid": "C347AD47-FE20-49D4-9967-8AE4201C7F81",
-    "username": "bruceliang888",
+    "username": "Esther",
     "score": 38,
     "level": 4,
     "platform": "iOS",
-    "createAt": "2025-10-26T00:18:47.464749",
-    "regionCode": "CN"
-  },
-  {
-    "uid": "9E330923-436D-4BCF-B473-67A672F5EB54",
-    "username": "SwiftWolf867",
-    "score": 15,
-    "level": 3,
-    "platform": "iOS",
-    "createAt": "2025-10-25T17:12:58.205549",
+    "createAt": "2025-10-26T00:54:41.055399",
     "regionCode": "CN"
   }
 ]
