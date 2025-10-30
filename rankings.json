@@ -106,5 +106,14 @@
     "platform": "Android",
     "createAt": "2025-10-29T19:34:12.016411",
     "regionCode": "BR"
+  },
+  {
+    "uid": "E6F076FC-2571-4006-AF8C-B30CDF319EED",
+    "username": "SilentFalcon214",
+    "score": 5,
+    "level": 2,
+    "platform": "iOS",
+    "createAt": "2025-10-29T23:20:57.992986",
+    "regionCode": "SG"
   }
 ]
