@@ -72,6 +72,24 @@
     "regionCode": "US"
   },
   {
+    "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
+    "username": "CleverWolf49",
+    "score": 16051,
+    "level": 21,
+    "platform": "iOS",
+    "createAt": "2025-10-31T13:05:42.542724",
+    "regionCode": "CN"
+  },
+  {
+    "uid": "CAACF5E6-C55B-4CD6-AB90-965D2E190608",
+    "username": "SilentWolf305",
+    "score": 13949,
+    "level": 21,
+    "platform": "iOS",
+    "createAt": "2025-10-31T02:57:13.132203",
+    "regionCode": "BR"
+  },
+  {
     "uid": "UKQ1.240624.001",
     "username": "bruce Springsteen",
     "score": 8181,
@@ -205,14 +223,5 @@
     "platform": "iOS",
     "createAt": "2025-10-29T23:20:57.992986",
     "regionCode": "SG"
-  },
-  {
-    "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
-    "username": "CleverWolf49",
-    "score": 2,
-    "level": 1,
-    "platform": "iOS",
-    "createAt": "2025-10-31T11:41:21.069083",
-    "regionCode": "CN"
   }
 ]
