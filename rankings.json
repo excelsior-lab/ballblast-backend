@@ -1,11 +1,11 @@
 [
   {
     "uid": "UP1A.231005.007",
-    "username": "누구야",
+    "username": "닉네임을 입력하세요",
     "score": 463980,
     "level": 184,
     "platform": "Android",
-    "createAt": "2025-11-06T11:16:58.694373",
+    "createAt": "2025-11-06T20:31:09.673219",
     "regionCode": "KR"
   },
   {
@@ -322,6 +322,15 @@
     "platform": "iOS",
     "createAt": "2025-11-01T20:11:03.407435",
     "regionCode": "US"
+  },
+  {
+    "uid": "4E3AFD6D-E5E7-4333-BFA8-4D56FB231839",
+    "username": "MightyEagle6",
+    "score": 5,
+    "level": 2,
+    "platform": "iOS",
+    "createAt": "2025-11-06T15:17:20.205404",
+    "regionCode": "IN"
   },
   {
     "uid": "7A9F6AF4-D9DE-403F-A03E-A6EC771F4F7C",
