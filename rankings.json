@@ -1,11 +1,11 @@
 [
   {
     "uid": "UP1A.231005.007",
-    "username": "I am wolf",
+    "username": "누구야",
     "score": 463980,
     "level": 184,
     "platform": "Android",
-    "createAt": "2025-11-05T18:49:51.588555",
+    "createAt": "2025-11-06T11:16:58.694373",
     "regionCode": "KR"
   },
   {
@@ -144,6 +144,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "12E4A5A8-B9FF-46B7-9493-A2C603810551",
+    "username": "MightyEagle250",
+    "score": 9414,
+    "level": 19,
+    "platform": "iOS",
+    "createAt": "2025-11-05T21:07:50.088142",
+    "regionCode": "US"
+  },
+  {
     "uid": "UKQ1.240624.001",
     "username": "bruce Springsteen",
     "score": 8181,
@@ -160,15 +169,6 @@
     "platform": "Android",
     "createAt": "2025-11-02T07:10:17.108018",
     "regionCode": "CN"
-  },
-  {
-    "uid": "12E4A5A8-B9FF-46B7-9493-A2C603810551",
-    "username": "MightyEagle250",
-    "score": 6171,
-    "level": 16,
-    "platform": "iOS",
-    "createAt": "2025-11-05T17:59:52.376113",
-    "regionCode": "US"
   },
   {
     "uid": "BP2A.250605.031.A3",
