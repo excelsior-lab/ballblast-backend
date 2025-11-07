@@ -1,25 +1,25 @@
 [
   {
     "uid": "UP1A.231005.007",
-    "username": "닉네임을 입력하세요",
-    "score": 1111510,
-    "level": 197,
+    "username": "catch me if you can",
+    "score": 3227922,
+    "level": 222,
     "platform": "Android",
-    "createAt": "2025-11-07T16:34:00.110103",
+    "createAt": "2025-11-07T19:36:52.446833",
     "regionCode": "KR"
   },
   {
     "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
-    "username": "a ni a sa yo",
+    "username": "are you Faker?",
     "score": 437998,
-    "level": 103,
+    "level": 110,
     "platform": "iOS",
-    "createAt": "2025-11-06T21:19:25.077601",
+    "createAt": "2025-11-07T20:01:39.302730",
     "regionCode": "CN"
   },
   {
     "uid": "ZXGMjt25QdwZXWNH3Z4L",
-    "username": "What are you talking?",
+    "username": "How did you do that?",
     "score": 390823,
     "level": 101,
     "platform": "Android",
@@ -28,11 +28,11 @@
   },
   {
     "uid": "541F61CB-D00C-4FC4-AC21-7B310BEECA90",
-    "username": "i wanna join",
+    "username": "OMG korea no1",
     "score": 220853,
     "level": 77,
     "platform": "iOS",
-    "createAt": "2025-11-06T12:44:33.816601",
+    "createAt": "2025-11-07T18:16:48.418980",
     "regionCode": "US"
   },
   {
@@ -313,6 +313,15 @@
     "platform": "iOS",
     "createAt": "2025-10-30T21:12:59.938036",
     "regionCode": "KR"
+  },
+  {
+    "uid": "D9E46603-3073-4816-84F0-3A30BE10EF72",
+    "username": "MightyEagle638",
+    "score": 52,
+    "level": 4,
+    "platform": "iOS",
+    "createAt": "2025-11-07T01:47:36.085922",
+    "regionCode": "US"
   },
   {
     "uid": "AAE426B9-BF66-4D82-9ACB-6A2E0397F4E5",
