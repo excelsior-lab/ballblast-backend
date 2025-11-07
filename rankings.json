@@ -36,6 +36,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "9C02DED2-170B-408F-8876-722EB97045CC",
+    "username": "SwiftShark791",
+    "score": 139091,
+    "level": 68,
+    "platform": "iOS",
+    "createAt": "2025-11-07T08:06:01.862051",
+    "regionCode": "US"
+  },
+  {
     "uid": "902D38FB-685B-4091-9C8F-D1398A66E387",
     "username": "BraveLion605",
     "score": 135065,
@@ -51,15 +60,6 @@
     "level": 48,
     "platform": "iOS",
     "createAt": "2025-11-16T15:01:44.435913",
-    "regionCode": "US"
-  },
-  {
-    "uid": "9C02DED2-170B-408F-8876-722EB97045CC",
-    "username": "SwiftShark791",
-    "score": 109950,
-    "level": 66,
-    "platform": "iOS",
-    "createAt": "2025-11-06T18:57:45.340764",
     "regionCode": "US"
   },
   {
@@ -79,6 +79,15 @@
     "platform": "iOS",
     "createAt": "2025-10-27T15:43:55.394331",
     "regionCode": "CN"
+  },
+  {
+    "uid": "D9E46603-3073-4816-84F0-3A30BE10EF72",
+    "username": "MightyEagle638",
+    "score": 67618,
+    "level": 40,
+    "platform": "iOS",
+    "createAt": "2025-11-07T05:09:50.320358",
+    "regionCode": "US"
   },
   {
     "uid": "2C546780-5921-4FA0-A388-2805398CD173",
@@ -243,15 +252,6 @@
     "regionCode": "GB"
   },
   {
-    "uid": "AP3A.240617.008",
-    "username": "CleverWolf711",
-    "score": 681,
-    "level": 6,
-    "platform": "Android",
-    "createAt": "2025-11-02T11:59:02.008905",
-    "regionCode": "BD"
-  },
-  {
     "uid": "BA4949D7-1DD8-4284-9495-539A6194AA34",
     "username": "CleverBear984",
     "score": 354,
@@ -277,6 +277,15 @@
     "platform": "iOS",
     "createAt": "2025-10-30T15:34:39.032977",
     "regionCode": "TR"
+  },
+  {
+    "uid": "AP3A.240617.008",
+    "username": "WildWolf589",
+    "score": 139,
+    "level": 5,
+    "platform": "Android",
+    "createAt": "2025-11-07T14:12:59.034968",
+    "regionCode": "DE"
   },
   {
     "uid": "RP1A.200720.012",
@@ -313,15 +322,6 @@
     "platform": "iOS",
     "createAt": "2025-10-30T21:12:59.938036",
     "regionCode": "KR"
-  },
-  {
-    "uid": "D9E46603-3073-4816-84F0-3A30BE10EF72",
-    "username": "MightyEagle638",
-    "score": 52,
-    "level": 4,
-    "platform": "iOS",
-    "createAt": "2025-11-07T01:47:36.085922",
-    "regionCode": "US"
   },
   {
     "uid": "AAE426B9-BF66-4D82-9ACB-6A2E0397F4E5",
