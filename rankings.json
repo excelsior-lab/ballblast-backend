@@ -9,22 +9,22 @@
     "regionCode": "KR"
   },
   {
-    "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
-    "username": "are you Faker?",
-    "score": 437998,
-    "level": 110,
-    "platform": "iOS",
-    "createAt": "2025-11-07T20:01:39.302730",
-    "regionCode": "CN"
-  },
-  {
     "uid": "ZXGMjt25QdwZXWNH3Z4L",
-    "username": "How did you do that?",
-    "score": 390823,
+    "username": "Catch me first",
+    "score": 679084,
     "level": 101,
     "platform": "Android",
     "createAt": "2025-10-27T10:56:55.852220",
     "regionCode": "US"
+  },
+  {
+    "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
+    "username": "Top1 is Faker",
+    "score": 437998,
+    "level": 115,
+    "platform": "iOS",
+    "createAt": "2025-11-08T10:13:42.185060",
+    "regionCode": "CN"
   },
   {
     "uid": "541F61CB-D00C-4FC4-AC21-7B310BEECA90",
