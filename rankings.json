@@ -72,6 +72,15 @@
     "regionCode": "BR"
   },
   {
+    "uid": "41CE427C-3B34-4D4E-8C7F-020E4904AB95",
+    "username": "CleverWolf482",
+    "score": 94546,
+    "level": 126,
+    "platform": "iOS",
+    "createAt": "2025-11-10T15:43:12.741711",
+    "regionCode": "US"
+  },
+  {
     "uid": "C347AD47-FE20-49D4-9967-8AE4201C7F81",
     "username": "重案组之虎",
     "score": 88951,
@@ -81,13 +90,13 @@
     "regionCode": "CN"
   },
   {
-    "uid": "41CE427C-3B34-4D4E-8C7F-020E4904AB95",
-    "username": "CleverWolf482",
-    "score": 81811,
-    "level": 110,
-    "platform": "iOS",
-    "createAt": "2025-11-09T21:43:22.962688",
-    "regionCode": "US"
+    "uid": "UOAS34.216-230-1",
+    "username": "SilentWolf844",
+    "score": 85528,
+    "level": 73,
+    "platform": "Android",
+    "createAt": "2025-11-10T16:31:11.028218",
+    "regionCode": "BR"
   },
   {
     "uid": "D9E46603-3073-4816-84F0-3A30BE10EF72",
@@ -106,15 +115,6 @@
     "platform": "iOS",
     "createAt": "2025-11-05T17:48:36.808115",
     "regionCode": "AL"
-  },
-  {
-    "uid": "UOAS34.216-230-1",
-    "username": "SilentWolf844",
-    "score": 56387,
-    "level": 36,
-    "platform": "Android",
-    "createAt": "2025-11-09T18:56:28.396644",
-    "regionCode": "BR"
   },
   {
     "uid": "BP3A.251005.004.B1",
@@ -223,6 +223,15 @@
     "platform": "Android",
     "createAt": "2025-10-28T13:03:19.804323",
     "regionCode": "CN"
+  },
+  {
+    "uid": "8A0ED90D-D600-436F-8A6A-5965205897E0",
+    "username": "LuckyWolf808",
+    "score": 3170,
+    "level": 17,
+    "platform": "iOS",
+    "createAt": "2025-11-11T00:24:59.417955",
+    "regionCode": "US"
   },
   {
     "uid": "DC7FC3AC-DE9D-4896-85C2-A2B42D1DB42F",
