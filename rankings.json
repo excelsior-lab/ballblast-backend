@@ -189,15 +189,6 @@
     "regionCode": "US"
   },
   {
-    "uid": "TP1A.220624.014",
-    "username": "CleverWolf405",
-    "score": 8598,
-    "level": 47,
-    "platform": "Android",
-    "createAt": "2025-11-07T18:45:53.242218",
-    "regionCode": "GB"
-  },
-  {
     "uid": "UKQ1.240624.001",
     "username": "bruce Springsteen",
     "score": 8181,
@@ -277,6 +268,15 @@
     "platform": "iOS",
     "createAt": "2025-10-30T17:17:23.419024",
     "regionCode": "MK"
+  },
+  {
+    "uid": "TP1A.220624.014",
+    "username": "SilentLion342",
+    "score": 635,
+    "level": 7,
+    "platform": "Android",
+    "createAt": "2025-11-10T14:49:04.992306",
+    "regionCode": "US"
   },
   {
     "uid": "BA4949D7-1DD8-4284-9495-539A6194AA34",
