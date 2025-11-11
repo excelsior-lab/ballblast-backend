@@ -9,6 +9,15 @@
     "regionCode": "KR"
   },
   {
+    "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
+    "username": "Top1 is Faker",
+    "score": 722087,
+    "level": 130,
+    "platform": "iOS",
+    "createAt": "2025-11-12T00:19:34.094601",
+    "regionCode": "CN"
+  },
+  {
     "uid": "ZXGMjt25QdwZXWNH3Z4L",
     "username": "Catch me first",
     "score": 679084,
@@ -16,15 +25,6 @@
     "platform": "Android",
     "createAt": "2025-10-27T10:56:55.852220",
     "regionCode": "US"
-  },
-  {
-    "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
-    "username": "Top1 is Faker",
-    "score": 437998,
-    "level": 115,
-    "platform": "iOS",
-    "createAt": "2025-11-08T10:13:42.185060",
-    "regionCode": "CN"
   },
   {
     "uid": "9C02DED2-170B-408F-8876-722EB97045CC",
@@ -133,6 +133,15 @@
     "platform": "Android",
     "createAt": "2025-11-01T18:03:56.059547",
     "regionCode": "US"
+  },
+  {
+    "uid": "SP1A.210812.016",
+    "username": "CleverWolf192",
+    "score": 23304,
+    "level": 56,
+    "platform": "Android",
+    "createAt": "2025-11-11T23:50:18.953602",
+    "regionCode": "GB"
   },
   {
     "uid": "AP3A.240905.015.A2",
