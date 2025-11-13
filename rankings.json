@@ -11,10 +11,10 @@
   {
     "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
     "username": "Top1 is Faker",
-    "score": 722087,
-    "level": 130,
+    "score": 876280,
+    "level": 134,
     "platform": "iOS",
-    "createAt": "2025-11-12T00:19:34.094601",
+    "createAt": "2025-11-13T09:22:35.126163",
     "regionCode": "CN"
   },
   {
@@ -162,6 +162,15 @@
     "regionCode": "NO"
   },
   {
+    "uid": "79470843-5A7E-4158-AF1E-EB45A7AACA35",
+    "username": "CleverShark284",
+    "score": 25811,
+    "level": 27,
+    "platform": "iOS",
+    "createAt": "2025-11-13T00:41:36.815247",
+    "regionCode": "NO"
+  },
+  {
     "uid": "AP3A.240905.015.A2",
     "username": "SilentTiger251",
     "score": 23133,
@@ -268,15 +277,6 @@
     "platform": "iOS",
     "createAt": "2025-11-11T14:52:33.655165",
     "regionCode": "US"
-  },
-  {
-    "uid": "79470843-5A7E-4158-AF1E-EB45A7AACA35",
-    "username": "CleverShark284",
-    "score": 4378,
-    "level": 15,
-    "platform": "iOS",
-    "createAt": "2025-11-12T11:58:29.217913",
-    "regionCode": "NO"
   },
   {
     "uid": "BP2A.250605.031.A3",
