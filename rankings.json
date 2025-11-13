@@ -1,14 +1,5 @@
 [
   {
-    "uid": "UP1A.231005.007",
-    "username": "Chinese go home",
-    "score": 3227922,
-    "level": 263,
-    "platform": "Android",
-    "createAt": "2025-11-13T19:12:30.673726",
-    "regionCode": "KR"
-  },
-  {
     "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
     "username": "Top1 is Faker",
     "score": 1252224,
@@ -52,6 +43,15 @@
     "platform": "iOS",
     "createAt": "2025-11-10T10:10:09.578391",
     "regionCode": "US"
+  },
+  {
+    "uid": "UP1A.231005.007",
+    "username": "LuckyWolf680",
+    "score": 159558,
+    "level": 134,
+    "platform": "Android",
+    "createAt": "2025-11-13T16:38:12.548182",
+    "regionCode": "AE"
   },
   {
     "uid": "902D38FB-685B-4091-9C8F-D1398A66E387",
