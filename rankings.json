@@ -5,16 +5,16 @@
     "score": 3227922,
     "level": 263,
     "platform": "Android",
-    "createAt": "2025-11-13T19:12:30.673726",
+    "createAt": "2025-11-13T16:38:12.548182",
     "regionCode": "KR"
   },
   {
     "uid": "63C01987-041F-4BF6-9162-E3641698BDB7",
     "username": "Top1 is Faker",
-    "score": 1252224,
-    "level": 139,
+    "score": 1335382,
+    "level": 140,
     "platform": "iOS",
-    "createAt": "2025-11-13T19:25:13.542096",
+    "createAt": "2025-11-14T16:10:10.810650",
     "regionCode": "CN"
   },
   {
@@ -52,15 +52,6 @@
     "platform": "iOS",
     "createAt": "2025-11-10T10:10:09.578391",
     "regionCode": "US"
-  },
-  {
-    "uid": "UP1A.231005.007",
-    "username": "LuckyWolf680",
-    "score": 159558,
-    "level": 134,
-    "platform": "Android",
-    "createAt": "2025-11-13T16:38:12.548182",
-    "regionCode": "AE"
   },
   {
     "uid": "902D38FB-685B-4091-9C8F-D1398A66E387",
@@ -261,15 +252,6 @@
     "regionCode": "US"
   },
   {
-    "uid": "UKQ1.240624.001",
-    "username": "bruce Springsteen",
-    "score": 8181,
-    "level": 21,
-    "platform": "Android",
-    "createAt": "2025-10-26T01:46:04.025685",
-    "regionCode": "CN"
-  },
-  {
     "uid": "82A024E8-7193-437E-B5FA-05A0DAF95AB5",
     "username": "LuckyBear694",
     "score": 7622,
@@ -312,6 +294,15 @@
     "level": 14,
     "platform": "iOS",
     "createAt": "2025-11-11T18:40:55.953321",
+    "regionCode": "US"
+  },
+  {
+    "uid": "51941EB0-ED83-4CF7-9EDB-33C0F5219516",
+    "username": "SilentWolf818",
+    "score": 3361,
+    "level": 12,
+    "platform": "iOS",
+    "createAt": "2025-11-14T03:32:58.774176",
     "regionCode": "US"
   },
   {
@@ -511,6 +502,15 @@
     "platform": "iOS",
     "createAt": "2025-11-06T15:17:20.205404",
     "regionCode": "IN"
+  },
+  {
+    "uid": "60996e953fbc7cc3",
+    "username": "MightyPanther378",
+    "score": 5,
+    "level": 2,
+    "platform": "Android",
+    "createAt": "2025-11-18T16:06:29.191907",
+    "regionCode": "CN"
   },
   {
     "uid": "7A9F6AF4-D9DE-403F-A03E-A6EC771F4F7C",
