@@ -1,0 +1,49 @@
+{
+  "bloodyVersion": "1.2.2",
+  "updateVersion": "1.2.2",
+
+  "zh-Hans": {
+    "updateSubtitle": "感谢一路陪伴，让我们一起把 App 变得更好用！",
+    "updateInfo": "1.增加了二级分类，账目归类更精准$2.支持设置记账起始日，记录方式更灵活$升级后体验更顺滑，快来试试吧！"
+  },
+
+  "zh-Hant": {
+    "updateSubtitle": "感謝一路陪伴，讓我們一起把 App 變得更好用！",
+    "updateInfo": "1.新增二級分類，記帳更精準$2.支援設定記帳起始日，記錄方式更彈性$升級後體驗更順暢，快來試試吧！"
+  },
+
+  "en": {
+    "updateSubtitle": "Thanks for growing with us! Let’s make the app even better together.",
+    "updateInfo": "1. Added subcategories for more precise tracking$2. You can now set your own start date$Enjoy a smoother, more refined experience!"
+  },
+
+  "de": {
+    "updateSubtitle": "Danke, dass du uns auf dem Weg begleitest! Gemeinsam machen wir die App besser.",
+    "updateInfo": "1. Neue Unterkategorien für genauere Einträge$2. Frei wählbares Startdatum$Dieses Update sorgt für ein noch flüssigeres Erlebnis!"
+  },
+
+  "es": {
+    "updateSubtitle": "¡Gracias por acompañarnos en este camino! Mejoremos la app juntos.",
+    "updateInfo": "1. Nuevas subcategorías para un registro más preciso$2. Puedes elegir tu fecha de inicio$¡Disfruta de una experiencia más fluida!"
+  },
+
+  "ko": {
+    "updateSubtitle": "함께 성장해 주셔서 감사합니다! 앱을 더 편하게 만들어 갈게요.",
+    "updateInfo": "1. 세부 카테고리 추가로 더 정확한 기록$2. 시작 날짜 설정 가능$업데이트 후 더 부드러운 사용감을 느껴보세요!"
+  },
+
+  "fr": {
+    "updateSubtitle": "Merci de grandir avec nous ! Améliorons l’app ensemble.",
+    "updateInfo": "1. Sous-catégories ajoutées pour un suivi plus précis$2. Date de début personnalisable$Profitez d’une expérience encore plus fluide !"
+  },
+
+  "ja": {
+    "updateSubtitle": "いつも支えてくれてありがとう！一緒にもっと使いやすいアプリにしましょう。",
+    "updateInfo": "1. サブカテゴリーを追加し、より正確に分類$2. 記録開始日を設定可能$アップデートでさらに快適に！"
+  },
+
+  "ar": {
+    "updateSubtitle": "شكرًا لمواكبتك لنا! دعنا نجعل التطبيق أفضل معًا.",
+    "updateInfo": "1. تمت إضافة فئات فرعية لتصنيف أدق$2. يمكنك الآن تحديد تاريخ البدء$استمتع بتجربة أكثر سلاسة!"
+  }
+}
