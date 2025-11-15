@@ -36,15 +36,6 @@
     "regionCode": "US"
   },
   {
-    "uid": "AQ3A.240912.001",
-    "username": "Shawnnnn",
-    "score": 237253,
-    "level": 59,
-    "platform": "Android",
-    "createAt": "2025-11-11T19:36:06.885224",
-    "regionCode": "CN"
-  },
-  {
     "uid": "541F61CB-D00C-4FC4-AC21-7B310BEECA90",
     "username": "esther",
     "score": 220853,
@@ -303,6 +294,15 @@
     "level": 27,
     "platform": "iOS",
     "createAt": "2025-11-11T14:52:33.655165",
+    "regionCode": "US"
+  },
+  {
+    "uid": "AQ3A.240912.001",
+    "username": "MightyWolf267",
+    "score": 3639,
+    "level": 13,
+    "platform": "Android",
+    "createAt": "2025-11-16T06:12:50.664639",
     "regionCode": "US"
   },
   {
