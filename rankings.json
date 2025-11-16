@@ -522,6 +522,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "86B188D0-E226-4495-836C-0D3180C05480",
+    "username": "SwiftEagle834",
+    "score": 17,
+    "level": 3,
+    "platform": "iOS",
+    "createAt": "2025-11-16T11:28:30.428094",
+    "regionCode": "US"
+  },
+  {
     "uid": "SP1A.210812.016",
     "username": "MightyTiger960",
     "score": 13,
@@ -556,15 +565,6 @@
     "platform": "iOS",
     "createAt": "2025-10-30T22:29:02.220286",
     "regionCode": "SE"
-  },
-  {
-    "uid": "86B188D0-E226-4495-836C-0D3180C05480",
-    "username": "SwiftEagle834",
-    "score": 5,
-    "level": 2,
-    "platform": "iOS",
-    "createAt": "2025-10-31T22:58:14.238631",
-    "regionCode": "US"
   },
   {
     "uid": "BP41.250916.012",
