@@ -14,7 +14,7 @@
     "score": 1712677,
     "level": 148,
     "platform": "iOS",
-    "createAt": "2025-11-17T12:12:47.752666",
+    "createAt": "2025-11-17T19:15:01.121358",
     "regionCode": "CN"
   },
   {
@@ -466,6 +466,15 @@
     "platform": "iOS",
     "createAt": "2025-11-02T13:49:26.865489",
     "regionCode": "US"
+  },
+  {
+    "uid": "E401F189-AD59-480A-B700-5B4043A12E27",
+    "username": "BravePanther400",
+    "score": 108,
+    "level": 5,
+    "platform": "iOS",
+    "createAt": "2025-11-17T14:07:04.101798",
+    "regionCode": "AF"
   },
   {
     "uid": "816B8ACC-D9D2-46F7-BF1F-BBB94F546B9E",
