@@ -306,6 +306,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "5ba02830d312b5ff",
+    "username": "CleverWolf405",
+    "score": 12068,
+    "level": 49,
+    "platform": "Android",
+    "createAt": "2025-11-23T15:47:08.372799",
+    "regionCode": "GB"
+  },
+  {
     "uid": "12E4A5A8-B9FF-46B7-9493-A2C603810551",
     "username": "MightyEagle250",
     "score": 9414,
@@ -464,7 +473,7 @@
     "score": 991,
     "level": 10,
     "platform": "Android",
-    "createAt": "2025-11-20T17:49:13.659728",
+    "createAt": "2025-11-23T18:59:31.556425",
     "regionCode": "IN"
   },
   {
