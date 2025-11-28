@@ -18,15 +18,6 @@
     "regionCode": "CN"
   },
   {
-    "uid": "ZXGMjt25QdwZXWNH3Z4L",
-    "username": "Catch me first",
-    "score": 679084,
-    "level": 101,
-    "platform": "Android",
-    "createAt": "2025-10-27T10:56:55.852220",
-    "regionCode": "US"
-  },
-  {
     "uid": "541F61CB-D00C-4FC4-AC21-7B310BEECA90",
     "username": "esther",
     "score": 388247,
@@ -279,6 +270,15 @@
     "regionCode": "SA"
   },
   {
+    "uid": "416BA97E-3FB9-4DA5-818B-3D699A505230",
+    "username": "LuckyTiger336",
+    "score": 15671,
+    "level": 34,
+    "platform": "iOS",
+    "createAt": "2025-11-27T22:10:47.662053",
+    "regionCode": "ML"
+  },
+  {
     "uid": "CAACF5E6-C55B-4CD6-AB90-965D2E190608",
     "username": "SilentWolf305",
     "score": 13949,
@@ -324,12 +324,30 @@
     "regionCode": "US"
   },
   {
+    "uid": "438E45B2-D89F-4369-AD43-B8B68D804D3B",
+    "username": "WildBear978",
+    "score": 11700,
+    "level": 19,
+    "platform": "iOS",
+    "createAt": "2025-11-27T20:50:53.584167",
+    "regionCode": "US"
+  },
+  {
     "uid": "12E4A5A8-B9FF-46B7-9493-A2C603810551",
     "username": "MightyEagle250",
     "score": 9414,
     "level": 19,
     "platform": "iOS",
     "createAt": "2025-11-05T21:07:50.088142",
+    "regionCode": "US"
+  },
+  {
+    "uid": "937c5b5b5c0c8882",
+    "username": "LuckyFalcon127",
+    "score": 9319,
+    "level": 18,
+    "platform": "Android",
+    "createAt": "2025-11-28T02:59:29.735682",
     "regionCode": "US"
   },
   {
@@ -522,15 +540,6 @@
     "regionCode": "MK"
   },
   {
-    "uid": "937c5b5b5c0c8882",
-    "username": "LuckyFalcon127",
-    "score": 950,
-    "level": 8,
-    "platform": "Android",
-    "createAt": "2025-11-19T19:18:48.927177",
-    "regionCode": "US"
-  },
-  {
     "uid": "C67E1822-75C6-43A3-AE56-432857E87D8E",
     "username": "WildBear968",
     "score": 894,
@@ -700,15 +709,6 @@
     "platform": "iOS",
     "createAt": "2025-11-15T09:55:08.775092",
     "regionCode": "US"
-  },
-  {
-    "uid": "416BA97E-3FB9-4DA5-818B-3D699A505230",
-    "username": "LuckyTiger336",
-    "score": 73,
-    "level": 4,
-    "platform": "iOS",
-    "createAt": "2025-11-27T21:21:38.252012",
-    "regionCode": "ML"
   },
   {
     "uid": "TLAS33.105-285-7",
