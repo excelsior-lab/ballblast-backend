@@ -54,15 +54,6 @@
     "regionCode": "US"
   },
   {
-    "uid": "U1TPS34.29-83-7-3-7",
-    "username": "SilentTiger293",
-    "score": 98064,
-    "level": 93,
-    "platform": "Android",
-    "createAt": "2025-10-28T22:11:54.075368",
-    "regionCode": "BR"
-  },
-  {
     "uid": "41CE427C-3B34-4D4E-8C7F-020E4904AB95",
     "username": "CleverWolf482",
     "score": 94546,
@@ -150,6 +141,15 @@
     "level": 46,
     "platform": "iOS",
     "createAt": "2025-11-20T09:37:30.763401",
+    "regionCode": "US"
+  },
+  {
+    "uid": "438E45B2-D89F-4369-AD43-B8B68D804D3B",
+    "username": "WildBear978",
+    "score": 30295,
+    "level": 37,
+    "platform": "iOS",
+    "createAt": "2025-11-29T12:12:20.660962",
     "regionCode": "US"
   },
   {
@@ -303,15 +303,6 @@
     "level": 28,
     "platform": "iOS",
     "createAt": "2025-11-26T22:43:20.628908",
-    "regionCode": "US"
-  },
-  {
-    "uid": "438E45B2-D89F-4369-AD43-B8B68D804D3B",
-    "username": "WildBear978",
-    "score": 11700,
-    "level": 19,
-    "platform": "iOS",
-    "createAt": "2025-11-27T20:50:53.584167",
     "regionCode": "US"
   },
   {
@@ -549,6 +540,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "3add60c7f79a906f",
+    "username": "SwiftBear964",
+    "score": 652,
+    "level": 8,
+    "platform": "Android",
+    "createAt": "2025-11-29T22:33:11.272956",
+    "regionCode": "GB"
+  },
+  {
     "uid": "DAC8A0DC-8D33-43BB-92BC-9AE87F9CCC5B",
     "username": "SwiftBear430",
     "score": 643,
@@ -702,15 +702,6 @@
     "regionCode": "US"
   },
   {
-    "uid": "TLAS33.105-285-7",
-    "username": "BraveTiger460",
-    "score": 55,
-    "level": 4,
-    "platform": "Android",
-    "createAt": "2025-10-29T19:34:12.016411",
-    "regionCode": "BR"
-  },
-  {
     "uid": "69472091-537B-4BC4-89B8-898F933D1BF9",
     "username": "LuckyBear60",
     "score": 54,
@@ -808,6 +799,15 @@
     "platform": "Android",
     "createAt": "2025-11-24T17:52:37.421511",
     "regionCode": ""
+  },
+  {
+    "uid": "18B5D9A4-C91E-420C-85ED-23ABEC11566B",
+    "username": "LuckyPanther969",
+    "score": 13,
+    "level": 3,
+    "platform": "iOS",
+    "createAt": "2025-11-29T20:15:19.721864",
+    "regionCode": "EG"
   },
   {
     "uid": "SP1A.210812.016",
