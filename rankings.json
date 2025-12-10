@@ -63,15 +63,6 @@
     "regionCode": "US"
   },
   {
-    "uid": "C347AD47-FE20-49D4-9967-8AE4201C7F81",
-    "username": "重案组之虎",
-    "score": 88951,
-    "level": 40,
-    "platform": "iOS",
-    "createAt": "2025-10-27T15:43:55.394331",
-    "regionCode": "CN"
-  },
-  {
     "uid": "0852e919c94e3f0a",
     "username": "SwiftTiger834",
     "score": 78616,
@@ -753,6 +744,15 @@
     "level": 3,
     "platform": "Android",
     "createAt": "2025-11-21T11:36:41.868303",
+    "regionCode": "US"
+  },
+  {
+    "uid": "061B813E-AB19-45DF-B2E5-F983D3D81C50",
+    "username": "LuckyWolf415",
+    "score": 40,
+    "level": 4,
+    "platform": "iOS",
+    "createAt": "2025-12-09T15:53:51.464442",
     "regionCode": "US"
   },
   {
