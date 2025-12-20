@@ -63,6 +63,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "7cad1f037ff011e3",
+    "username": "MightyPanther979",
+    "score": 68367,
+    "level": 61,
+    "platform": "Android",
+    "createAt": "2025-12-20T18:47:42.194308",
+    "regionCode": "US"
+  },
+  {
     "uid": "2C546780-5921-4FA0-A388-2805398CD173",
     "username": "WildTiger357",
     "score": 63893,
@@ -102,9 +111,9 @@
     "uid": "5f6d69abe8e6634d",
     "username": "MightyShark594",
     "score": 52721,
-    "level": 43,
+    "level": 44,
     "platform": "Android",
-    "createAt": "2025-12-18T19:56:56.255624",
+    "createAt": "2025-12-20T16:13:16.635419",
     "regionCode": "US"
   },
   {
@@ -120,9 +129,9 @@
     "uid": "2dae611281cced6f",
     "username": "BraveWolf283",
     "score": 48408,
-    "level": 74,
+    "level": 77,
     "platform": "Android",
-    "createAt": "2025-12-16T14:48:53.935208",
+    "createAt": "2025-12-20T15:59:33.366939",
     "regionCode": "TR"
   },
   {
@@ -178,15 +187,6 @@
     "platform": "iOS",
     "createAt": "2025-12-09T21:34:44.613495",
     "regionCode": "VN"
-  },
-  {
-    "uid": "7cad1f037ff011e3",
-    "username": "MightyPanther979",
-    "score": 30678,
-    "level": 53,
-    "platform": "Android",
-    "createAt": "2025-12-15T16:31:26.285455",
-    "regionCode": "US"
   },
   {
     "uid": "646F84D1-3545-493A-9197-EABFB02C44B8",
