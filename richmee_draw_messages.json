@@ -1,0 +1,870 @@
+[
+    {
+        "score": 58,
+        "text": {
+            "zh": "想买的东西，可以先放一放。过一会儿再看，答案会更清楚。",
+            "zh_Hant": "想買的東西，可以先放一放。過一會兒再看，答案會更清楚。",
+            "en": "What you want can wait. Giving it time often makes the answer clearer.",
+            "ko": "사고 싶은 건 잠시 미뤄보세요. 시간이 답을 더 분명하게 해줘요.",
+            "ja": "欲しいものはいったん保留。少し時間を置くと見えてきます。",
+            "de": "Was du kaufen willst, kann warten. Mit etwas Zeit wird alles klarer.",
+            "es": "Eso que quieres puede esperar. Con tiempo, la decisión se aclara.",
+            "fr": "Ce que tu veux peut attendre. Le temps aide à y voir clair.",
+            "ar": "ما ترغب به يمكن أن ينتظر. الوقت سيجعل القرار أوضح."
+        }
+    },
+    {
+        "score": 70,
+        "text": {
+            "zh": "今天的财运偏稳定。没有惊喜，但这种平稳本身就很难得。",
+            "zh_Hant": "今天的財運偏穩定。沒有驚喜，但這種平穩本身就很難得。",
+            "en": "Today’s fortune is steady. No surprises, but stability itself is valuable.",
+            "ko": "오늘의 재물운은 안정적이에요. 특별한 일은 없어도 충분히 괜찮아요.",
+            "ja": "今日は安定した金運。派手さはなくても十分です。",
+            "de": "Heute ist die Finanzlage stabil. Keine Highlights, aber das zählt.",
+            "es": "Hoy la fortuna es estable. No hay sorpresas, y eso está bien.",
+            "fr": "La chance est stable aujourd’hui. Rien d’extraordinaire, et c’est très bien.",
+            "ar": "الحظ المالي مستقر اليوم. لا مفاجآت، وهذا أمر جيد."
+        }
+    },
+    {
+        "score": 65,
+        "text": {
+            "zh": "会有一些必要的支出。提前接受它，反而不会影响心情。",
+            "zh_Hant": "會有一些必要的支出。提前接受它，反而不會影響心情。",
+            "en": "Some necessary spending may come up. Accepting it calmly helps keep balance.",
+            "ko": "필요한 지출이 있을 수 있어요. 미리 받아들이면 마음이 편해요.",
+            "ja": "必要な出費がありそう。割り切れば気持ちは軽い。",
+            "de": "Es könnten notwendige Ausgaben anfallen. Gelassenheit hilft.",
+            "es": "Habrá gastos necesarios. Aceptarlos reduce el estrés.",
+            "fr": "Certaines dépenses sont inévitables. Les accepter apaise l’esprit.",
+            "ar": "قد تكون هناك مصروفات ضرورية. تقبّلها بهدوء."
+        }
+    },
+    {
+        "score": 60,
+        "text": {
+            "zh": "情绪容易影响消费判断。给自己一点冷静时间，会更稳妥。",
+            "zh_Hant": "情緒容易影響消費判斷。給自己一點冷靜時間，會更穩妥。",
+            "en": "Emotions may affect spending decisions today. A pause can help.",
+            "ko": "감정이 소비 판단에 영향을 줄 수 있어요. 잠시 멈추면 좋아요.",
+            "ja": "感情で判断しやすい日。少し間を置いて。",
+            "de": "Emotionen könnten Entscheidungen beeinflussen. Kurz innehalten hilft.",
+            "es": "Las emociones pueden influir en tus gastos. Una pausa ayuda.",
+            "fr": "Les émotions peuvent guider les dépenses. Faire une pause est utile.",
+            "ar": "قد تؤثر المشاعر على قرارات الإنفاق. التمهّل مفيد."
+        }
+    },
+    {
+        "score": 82,
+        "text": {
+            "zh": "适合想一想长期的财务安排。今天的思考，会帮到未来的你。",
+            "zh_Hant": "適合想一想長期的財務安排。今天的思考，會幫到未來的你。",
+            "en": "A good day to think long-term. Today’s thoughts help your future self.",
+            "ko": "장기적인 재정 계획을 생각하기 좋아요. 미래의 나에게 도움이 돼요.",
+            "ja": "長期的なお金の計画に向いた日。未来の自分のために。",
+            "de": "Gut für langfristige Finanzgedanken. Dein Zukunfts-Ich wird danken.",
+            "es": "Buen día para pensar a largo plazo. Tu yo futuro lo agradecerá.",
+            "fr": "Idéal pour réfléchir au long terme. Ton futur toi t’en remerciera.",
+            "ar": "يوم مناسب للتفكير طويل الأمد. مستقبلك سيشكرك."
+        }
+    },
+    {
+        "score": 68,
+        "text": {
+            "zh": "今天更适合守，而不是冲。把已有的照顾好，就是正确选择。",
+            "zh_Hant": "今天更適合守，而不是衝。把已有的照顧好，就是正確選擇。",
+            "en": "Today favors protection over risk. Taking care of what you have is enough.",
+            "ko": "오늘은 지키는 게 더 좋아요. 가진 걸 잘 관리하세요.",
+            "ja": "今日は攻めより守り。今あるものを大切に。",
+            "de": "Heute lieber bewahren als riskieren.",
+            "es": "Hoy conviene proteger más que arriesgar.",
+            "fr": "Mieux vaut préserver que risquer aujourd’hui.",
+            "ar": "اليوم الحماية أفضل من المخاطرة."
+        }
+    },
+    {
+        "score": 65,
+        "text": {
+            "zh": "小额外快可能上门。别忽略那些不起眼的兼职机会。",
+            "zh_Hant": "小額外快可能上門。別忽略那些不起眼的兼職機會。",
+            "en": "A small side income may come your way. Don’t overlook trivial part-time chances.",
+            "ko": "작은 부수입이 생길 수 있어요. 눈에 띄지 않는 파트타임 기회를 놓치지 마세요.",
+            "ja": "少額の副収入が入ってくるかも。目立たないアルバイト機会を逃さない。",
+            "de": "Ein kleiner Nebenverdienst könnte kommen. Überlooke keine unscheinbaren Nebenjobs.",
+            "es": "Puede llegar un ingreso extra pequeño. No ignores las oportunidades de trabajo parcial.",
+            "fr": "Un petit revenu complémentaire pourrait arriver. Ne négligez pas les petits boulots.",
+            "ar": "قد يأتي دخل إضافي صغير. لا تتجاهل فرص العمل الجزئي."
+        }
+    },
+    {
+        "score": 63,
+        "text": {
+            "zh": "财运在午后回升。下午做消费决策会更理性。",
+            "zh_Hant": "財運在午後回升。下午做消費決策會更理性。",
+            "en": "Fortune picks up in the afternoon. Spending decisions then are more rational.",
+            "ko": "오후에 재물운이 회복돼요. 오후에 소비 결정을 내리면 더 합리적이에요.",
+            "ja": "午後に金運が上昇。午後の消費判断はより理性的になる。",
+            "de": "Das Finanzglück steigt am Nachmittag. Entscheidungen dann sind vernünftiger.",
+            "es": "La fortuna mejora por la tarde. Las decisiones de gasto son más racionales.",
+            "fr": "La chance monte l’après-midi. Les décisions de dépense sont plus rationnelles.",
+            "ar": "الحظ المالي يتسنح بعد الظهر. قرارات الإنفاق تكون أكثر عقلانية."
+        }
+    },
+    {
+        "score": 79,
+        "text": {
+            "zh": "旧物处理能回血。闲置转卖会有意外小收获。",
+            "zh_Hant": "舊物處理能回血。閒置轉賣會有意外小收穫。",
+            "en": "Selling old items brings extra cash. You’ll get a nice surprise from second-hand sales.",
+            "ko": "오래된 물건 처분으로 돈을 회수하세요. 안 쓰는 물건 판매로 예상치 못한 수익이 있어요.",
+            "ja": "不用品整理で資金回収。中古販売で意外な小利益が得られる。",
+            "de": "Alte Sachen verkaufen bringt Geld. Du bekommst eine kleine Überraschung vom Verkauf.",
+            "es": "Vender objetos viejos te da dinero extra. Obtendrás una sorpresa con las ventas de segunda mano.",
+            "fr": "Vendre des objets anciens rapporte de l’argent. Les ventes d’occasion offrent une petite surprise.",
+            "ar": "بيع الأشياء القديمة يجلب نقودًا إضافية. ستتلقى مفاجأة من بيع المستعملات."
+        }
+    },
+    {
+        "score": 81,
+        "text": {
+            "zh": "理财小调整见效。优化储蓄比例会更安心。",
+            "zh_Hant": "理財小調整見效。優化儲蓄比例會更安心。",
+            "en": "Small adjustments to finances work. Optimizing savings ratio brings more peace.",
+            "ko": "재테크의 작은 조정이 효과적이에요. 저축 비율을 최적화하면 마음이 더 안심됩니다.",
+            "ja": "資産運用の小さな調整が功を奏す。貯蓄率の最適化で安心感が増す。",
+            "de": "Kleine Änderungen bei der Finanzplanung helfen. Optimieren des Sparanteils beruhigt.",
+            "es": "Pequeños ajustes en las finanzas funcionan. Optimizar la proporción de ahorro te calma.",
+            "fr": "Petits ajustements financiers efficaces. Optimiser le taux d’épargne apporte sérénité.",
+            "ar": "تعديلات صغيرة في التمويل تؤدي ثمارها. تحسين نسبة الادخار يمنحك راحة."
+        }
+    },
+    {
+        "score": 66,
+        "text": {
+            "zh": "避免冲动买单。先等24小时，再决定要不要买。",
+            "zh_Hant": "避免衝動買單。先等24小時，再決定要不要買。",
+            "en": "Avoid impulsive purchases. Wait 24 hours before making a decision.",
+            "ko": "충동 구매를 피하세요. 24시간을 기다린 후 구매 여부를 결정하세요.",
+            "ja": "衝動買いを避けよう。24時間待ってから購入を決める。",
+            "de": "Vermeide impulsive Käufe. Warte 24 Stunden, bevor du entscheidest.",
+            "es": "Evita compras impulsivas. Espera 24 horas antes de decidirte.",
+            "fr": "Évite les achats impulsifs. Attends 24 heures avant de décider.",
+            "ar": "تجنب المشتريات الاندفاعية. انتظر 24 ساعة قبل اتخاذ القرار."
+        }
+    },
+    {
+        "score": 77,
+        "text": {
+            "zh": "有朋友会分享省钱技巧。多听听建议，能少走弯路。",
+            "zh_Hant": "有朋友會分享省錢技巧。多聽聽建議，能少走彎路。",
+            "en": "Friends will share money-saving tips. Listen more to avoid detours.",
+            "ko": "친구들이 돈 아끼는 팁을 공유해줄 거예요. 조언을 많이 듣고 돌아가는 길을 피하세요.",
+            "ja": "友達が節約術を教えてくれるかも。アドバイスを聞くと、遠回りを避けられる。",
+            "de": "Freunde teilen Spar-Tipps. Höre mehr, um Umwege zu vermeiden.",
+            "es": "Amigos compartirán consejos de ahorro. Escucha más para evitar desvíos.",
+            "fr": "Des amis partageront des astuces d’économie. Écoutez davantage pour éviter les détours.",
+            "ar": "سيشاركك الأصدقاء نصائح لتوفير المال. استمع أكثر لتجنب الاخطاء."
+        }
+    },
+    {
+        "score": 64,
+        "text": {
+            "zh": "今日不宜投资。观望是更稳妥的选择。",
+            "zh_Hant": "今日不宜投資。觀望是更穩妥的選擇。",
+            "en": "Not a good day for investment. Waiting and seeing is a safer choice.",
+            "ko": "오늘은 투자하기에 좋지 않아요. 지켜보는 것이 더 안전한 선택입니다.",
+            "ja": "今日は投資に向かない。様子見がより確実な選択。",
+            "de": "Heute kein guter Tag für Investitionen. Abwarten ist sicherer.",
+            "es": "No es un buen día para invertir. Esperar es una opción más segura.",
+            "fr": "Pas de bonne journée pour investir. Attendre est un choix plus sûr.",
+            "ar": "ليس يومًا جيدًا للاستثمار. الانتظار هو الخيار الأكثر أمنًا."
+        }
+    },
+    {
+        "score": 74,
+        "text": {
+            "zh": "理财知识要更新。学习新的方法，收益会更可观。",
+            "zh_Hant": "理財知識要更新。學習新的方法，收益會更可觀。",
+            "en": "Update your financial knowledge. New methods bring better returns.",
+            "ko": "재테크 지식을 업데이트하세요. 새로운 방법을 배우면 수익이 더 높아져요.",
+            "ja": "資産運用の知識をアップデートせよ。新しい方法を学べば、収益はより大きくなる。",
+            "de": "Aktualisiere dein Finanzwissen. Neue Methoden bringen bessere Renditen.",
+            "es": "Actualiza tus conocimientos financieros. Nuevos métodos traen mejores rendimientos.",
+            "fr": "Actualise tes connaissances financières. De nouvelles méthodes offrent de meilleurs rendements.",
+            "ar": "حدث معرفتك المالية. تعلم الطرق الجديدة لتزيد الأرباح."
+        }
+    },
+    {
+        "score": 76,
+        "text": {
+            "zh": "优惠券别浪费。合理使用，能省下一笔不小的开支。",
+            "zh_Hant": "優惠券別浪費。合理使用，能省下一筆不小的開支。",
+            "en": "Don’t waste coupons. Use them wisely to save a decent sum of money.",
+            "ko": "쿠폰을 낭비하지 마세요. 현명하게 사용하면 상당한 금액을 아낄 수 있어요.",
+            "ja": "クーポンを無駄にするな。賢く使えば、かなりの出費を節約できる。",
+            "de": "Vermeide Coupon-Verschwendung. Kluges Nutzen spart eine beachtliche Summe.",
+            "es": "No desperdicies cupones. Usalos sabiamente para ahorrar una cantidad considerable.",
+            "fr": "Ne gaspille pas les coupons. Utilises-les sagement pour économiser une belle somme.",
+            "ar": "لا تضيع الكوبونات. استخدمها بحكمة لتوفير مبلغ كبير."
+        }
+    },
+    {
+        "score": 69,
+        "text": {
+            "zh": "避免与人有金钱纠纷。亲兄弟，明算账更省心。",
+            "zh_Hant": "避免與人有金錢糾紛。親兄弟，明算賬更省心。",
+            "en": "Avoid financial disputes with others. Clear accounts keep relationships smooth.",
+            "ko": "사람들과 금전 분쟁을 피하세요. 친한 형제라도 돈은 명확하게 정산하는 것이 마음 편해요.",
+            "ja": "他人との金銭トラブルを避けよう。肉親同士でも、はっきりと清算するのが安心。",
+            "de": "Vermeide finanzielle Streitigkeiten mit anderen. Klare Rechnungen sichern gute Beziehungen.",
+            "es": "Evita disputas financieras con otros. Cuentas claras mantienen las relaciones fluidas.",
+            "fr": "Évite les conflits financiers avec autrui. Des comptes clairs préservent les relations.",
+            "ar": "تجنب النزاعات المالية مع الآخرين. الحسابات الواضحة تجعل العلاقات سلسة."
+        }
+    },
+    {
+        "score": 54,
+        "text": {
+            "zh": "财运和心态相关。保持平和，花钱也会更顺心。",
+            "zh_Hant": "財運和心態相關。保持平和，花錢也會更順心。",
+            "en": "Fortune is linked to mindset. Stay calm, and spending feels more comfortable.",
+            "ko": "재물운은 마음가짐과 관련이 있어요. 평온함을 유지하면 돈을 쓰는 것도 더 편안해요.",
+            "ja": "金運はマインドと関連する。穏やかな気持ちを保てば、お金を使うのもスムーズになる。",
+            "de": "Glück hängt von der Einstellung ab. Bleib ruhig, und das Ausgeben fühlt sich angenehmer an.",
+            "es": "La fortuna está ligada a la mentalidad. Mantente calmado, y gastar se siente más cómodo.",
+            "fr": "La chance est liée à l’état d’esprit. Reste calme, et les dépenses seront plus agréables.",
+            "ar": "الحظ المالي مرتبط بالعقلية. ابقى هادئًا، وسيكون الإنفاق أكثر راحة."
+        }
+    },
+    {
+        "score": 62,
+        "text": {
+            "zh": "今日有意外支出。提前预留备用金，能应对突发情况。",
+            "zh_Hant": "今日有意外支出。提前預留備用金，能應對突發情況。",
+            "en": "Unexpected expenses come up today. Emergency funds handle sudden situations.",
+            "ko": "오늘 예상치 못한 지출이 생길 수 있어요. 미리 비상금을 마련하면 돌발 상황에 대처할 수 있어요.",
+            "ja": "今日は予期せぬ出費がある。事前に予備費を確保しておけば、突発事態に対応できる。",
+            "de": "Heute gibt es unerwartete Ausgaben. Notfonds bewältigen plötzliche Situationen.",
+            "es": "Hoy surgen gastos inesperados. Fondos de emergencia manejan situaciones repentinas.",
+            "fr": "Des dépenses inattendues surviennent aujourd’hui. Les fonds d’urgence gèrent les situations soudaines.",
+            "ar": "تظهر نفقات غير متوقعة اليوم. الأموال الطارئة تتعامل مع المواقف المفاجئة."
+        }
+    },
+    {
+        "score": 58,
+        "text": {
+            "zh": "别盲目追求名牌。性价比高的选择更明智。",
+            "zh_Hant": "別盲目追求名牌。性價比高的選擇更明智。",
+            "en": "Don’t blindly chase luxury brands. Cost-effective choices are wiser.",
+            "ko": "명품을 맹목적으로 추구하지 마세요. 가성비가 높은 선택이 더 현명해요.",
+            "ja": "ブランドを盲目的に追い求めるな。コスパの良い選択が賢明。",
+            "de": "Jage nicht blind nach Luxusmarken. Kostengünstige Optionen sind klüger.",
+            "es": "No persigas ciegamente marcas de lujo. Las opciones económicas son más sabias.",
+            "fr": "Ne poursuis pas aveuglément les marques de luxe. Les choix économiques sont plus sages.",
+            "ar": "لا تتبع العلامات التجارية الفاخرة بشكل أعمى. الخيارات الموفرة للمال أكثر حكمة."
+        }
+    },
+    {
+        "score": 65,
+        "text": {
+            "zh": "今日适合规划预算。明确收支，花钱更有底气。",
+            "zh_Hant": "今日適合規劃預算。明確收支，花錢更有底氣。",
+            "en": "Today is good for budgeting. Clear income and expenses boost spending confidence.",
+            "ko": "오늘은 예산 계획을 세우기 좋은 날이에요. 수입과 지출을 명확히 하면 돈을 쓰는 데 자신감이 생겨요.",
+            "ja": "今日は予算計画に向いている。収支を明確にすれば、お金を使う際の自信がつく。",
+            "de": "Heute ist ein guter Tag für Budgetierung. Klare Einnahmen und Ausgaben stärken das Selbstvertrauen.",
+            "es": "Hoy es buen día para hacer presupuestos. Ingresos y gastos claros aumentan la confianza.",
+            "fr": "Aujourd’hui est idéal pour établir un budget. Revenus et dépenses clairs boostent la confiance.",
+            "ar": "اليوم يوم جيد لتخطيط الميزانية. الدخل والنفقات الواضحة يزيدان من الثقة."
+        }
+    },
+    {
+        "score": 74,
+        "text": {
+            "zh": "理财要分散风险。不要把所有鸡蛋放在一个篮子里。",
+            "zh_Hant": "理財要分散風險。不要把所有雞蛋放在一個籃子里。",
+            "en": "Diversify risks in finance. Don’t put all your eggs in one basket.",
+            "ko": "재테크는 위험을 분산시키세요. 모든 계란을 한 바구니에 담지 마세요.",
+            "ja": "資産運用はリスク分散が鉄則。すべての卵を一つのカゴに入れるな。",
+            "de": "Streue Risiken bei der Finanzplanung. Setze nicht alle Eier in einen Korb.",
+            "es": "Diversifica los riesgos en finanzas. No pongas todos los huevos en una cesta.",
+            "fr": "Diversifie les risques en finance. Ne mets pas tous tes œufs dans le même panier.",
+            "ar": "تنويع المخاطر في التمويل. لا تضع كل البيض في سلة واحدة."
+        }
+    },
+    {
+        "score": 68,
+        "text": {
+            "zh": "今日不宜借贷。往外借钱容易有去无回。",
+            "zh_Hant": "今日不宜借貸。往外借錢容易有去無回。",
+            "en": "Not a good day for lending money. It’s easy to lose the money you lend out.",
+            "ko": "오늘은 돈을 빌려주기에 좋지 않아요. 돈을 빌려주면 돌아오지 않을 가능성이 높아요.",
+            "ja": "今日は金を貸すのに向かない。貸した金が戻ってこない可能性が高い。",
+            "de": "Heute kein guter Tag, um Geld zu verleihen. Es ist leicht, das verliehene Geld zu verlieren.",
+            "es": "No es un buen día para prestar dinero. Es fácil perder el dinero que prestas.",
+            "fr": "Pas de bonne journée pour prêter de l’argent. Il est facile de perdre l’argent prêté.",
+            "ar": "ليس يومًا جيدًا للقرض. من السهل أن يضيع المال الذي تقرضه."
+        }
+    },
+    {
+        "score": 86,
+        "text": {
+            "zh": "投资自己是最好的理财。提升能力，收入会随之增长。",
+            "zh_Hant": "投資自己是最好的理財。提升能力，收入會隨之增長。",
+            "en": "Investing in yourself is the best finance strategy. Improve abilities, income grows with it.",
+            "ko": "자기 자신에 투자하는 것이 최고의 재테크입니다. 능력을 향상시키면 수입도 함께 증가해요.",
+            "ja": "自分への投資が最高の資産運用。能力を高めれば、収入も自然と増える。",
+            "de": "In dich selbst zu investieren ist die beste Finanzstrategie. Verbessere Fähigkeiten, Einkommen steigt.",
+            "es": "Invertir en ti mismo es la mejor estrategia financiera. Mejora tus habilidades, el ingreso crece.",
+            "fr": "Investir en toi-même est la meilleure stratégie financière. Améliore tes compétences, le revenu augmente.",
+            "ar": "الاستثمار في نفسك هو أفضل استراتيجية مالية. حسن مهاراتك، وسينمو دخلك معها."
+        }
+    },
+    {
+        "score": 62,
+        "text": {
+            "zh": "今天的节奏适合慢一点。把钱花在确定的地方，会让你更安心。",
+            "zh_Hant": "今天的節奏適合慢一點。把錢花在確定的地方，會讓你更安心。",
+            "en": "Today is better taken slowly. Spending on what truly matters will bring peace of mind.",
+            "ko": "오늘은 조금 느리게 가는 게 좋아요. 확실한 곳에 쓰면 마음이 편해질 거예요.",
+            "ja": "今日は少しゆっくりで大丈夫。納得できる使い方が安心につながります。",
+            "de": "Heute lieber langsamer. Geld für klare Dinge auszugeben bringt Ruhe.",
+            "es": "Hoy conviene ir con calma. Gastar en lo seguro te dará tranquilidad.",
+            "fr": "Aujourd’hui, avance doucement. Dépenser en toute confiance apaise l’esprit.",
+            "ar": "اليوم من الأفضل التمهّل. الإنفاق على ما هو مؤكد يمنحك راحة."
+        }
+    },
+    {
+        "score": 70,
+        "text": {
+            "zh": "今天的财运偏稳定。没有惊喜，但这种平稳本身就很难得。",
+            "zh_Hant": "今天的財運偏穩定。沒有驚喜，但這種平穩本身就很難得。",
+            "en": "Today’s fortune is steady. No surprises, but stability itself is valuable.",
+            "ko": "오늘의 재물운은 안정적이에요. 특별한 일은 없어도 충분히 괜찮아요.",
+            "ja": "今日は安定した金運。派手さはなくても十分です。",
+            "de": "Heute ist die Finanzlage stabil. Keine Highlights, aber das zählt.",
+            "es": "Hoy la fortuna es estable. No hay sorpresas, y eso está bien.",
+            "fr": "La chance est stable aujourd’hui. Rien d’extraordinaire, et c’est très bien.",
+            "ar": "الحظ المالي مستقر اليوم. لا مفاجآت، وهذا أمر جيد."
+        }
+    },
+    {
+        "score": 78,
+        "text": {
+            "zh": "今天有省钱的小机会。注意那些被你忽略的细节。",
+            "zh_Hant": "今天有省錢的小機會。注意那些被你忽略的細節。",
+            "en": "There’s a small chance to save money today. Pay attention to the details.",
+            "ko": "오늘은 작게 아낄 기회가 있어요. 사소한 부분을 살펴보세요.",
+            "ja": "今日は節約のヒントあり。小さなところに注目して。",
+            "de": "Heute gibt es kleine Sparchancen. Achte auf Details.",
+            "es": "Hoy hay pequeñas oportunidades de ahorrar. Fíjate en los detalles.",
+            "fr": "De petites économies sont possibles aujourd’hui. Observe les détails.",
+            "ar": "هناك فرصة صغيرة للتوفير اليوم. انتبه للتفاصيل."
+        }
+    },
+    {
+        "score": 75,
+        "text": {
+            "zh": "今天的收获可能不大，但很踏实。稳定感本身就是一种好运。",
+            "zh_Hant": "今天的收穫可能不大，但很踏實。穩定感本身就是一種好運。",
+            "en": "Gains may be modest today, but solid. Stability itself is good fortune.",
+            "ko": "큰 수익은 없어도 든든한 하루예요. 안정감도 행운이에요.",
+            "ja": "大きな収穫はなくても堅実。安定も運の一部。",
+            "de": "Vielleicht kein großer Gewinn, aber solide. Stabilität zählt.",
+            "es": "No grandes ganancias, pero sí estabilidad. Eso también es suerte.",
+            "fr": "Peu de gains, mais de la solidité. La stabilité est une chance.",
+            "ar": "قد لا يكون الربح كبيرًا، لكنه مستقر. الاستقرار حظ."
+        }
+    },
+    {
+        "score": 85,
+        "text": {
+            "zh": "整体状态不错。安心按自己的节奏走就好。",
+            "zh_Hant": "整體狀態不錯。安心按自己的節奏走就好。",
+            "en": "Overall, things look good. Stay in your own rhythm.",
+            "ko": "전반적으로 좋아요. 내 리듬을 유지하세요.",
+            "ja": "全体的に良好。自分のペースで大丈夫。",
+            "de": "Insgesamt gut. Bleib in deinem eigenen Tempo.",
+            "es": "En general, todo va bien. Sigue tu ritmo.",
+            "fr": "Globalement positif. Avance à ton rythme.",
+            "ar": "بشكل عام الأمور جيدة. سر وفق إيقاعك."
+        }
+    },
+    {
+        "score": 72,
+        "text": {
+            "zh": "购物前列清单，能帮你省下不少没必要的开支。",
+            "zh_Hant": "購物前列清單，能幫你省下不少沒必要的開支。",
+            "en": "Making a shopping list beforehand saves you from unnecessary spending.",
+            "ko": "쇼핑 전 리스트를 작성하면 불필요한 지출을 줄일 수 있어요.",
+            "ja": "買い物前にリストを作れば、無駄な出費を抑えられる。",
+            "de": "Eine Einkaufsliste vor dem Shoppen spart unnötige Ausgaben.",
+            "es": "Hacer una lista antes de comprar te ahorra gastos innecesarios.",
+            "fr": "Faire une liste avant les courses évite les dépenses inutiles.",
+            "ar": "صنع قائمة التسوق مسبقًا يوفر لك نفقات غير ضرورية."
+        }
+    },
+    {
+        "score": 63,
+        "text": {
+            "zh": "财运在午后回升。下午做消费决策会更理性。",
+            "zh_Hant": "財運在午後回升。下午做消費決策會更理性。",
+            "en": "Fortune picks up in the afternoon. Spending decisions then are more rational.",
+            "ko": "오후에 재물운이 회복돼요. 오후에 소비 결정을 내리면 더 합리적이에요.",
+            "ja": "午後に金運が上昇。午後の消費判断はより理性的になる。",
+            "de": "Das Finanzglück steigt am Nachmittag. Entscheidungen dann sind vernünftiger.",
+            "es": "La fortuna mejora por la tarde. Las decisiones de gasto son más racionales.",
+            "fr": "La chance monte l’après-midi. Les décisions de dépense sont plus rationnelles.",
+            "ar": "الحظ المالي يتسنح بعد الظهر. قرارات الإنفاق تكون أكثر عقلانية."
+        }
+    },
+    {
+        "score": 79,
+        "text": {
+            "zh": "旧物处理能回血。闲置转卖会有意外小收获。",
+            "zh_Hant": "舊物處理能回血。閒置轉賣會有意外小收穫。",
+            "en": "Selling old items brings extra cash. You’ll get a nice surprise from second-hand sales.",
+            "ko": "오래된 물건 처분으로 돈을 회수하세요. 안 쓰는 물건 판매로 예상치 못한 수익이 있어요.",
+            "ja": "不用品整理で資金回収。中古販売で意外な小利益が得られる。",
+            "de": "Alte Sachen verkaufen bringt Geld. Du bekommst eine kleine Überraschung vom Verkauf.",
+            "es": "Vender objetos viejos te da dinero extra. Obtendrás una sorpresa con las ventas de segunda mano.",
+            "fr": "Vendre des objets anciens rapporte de l’argent. Les ventes d’occasion offrent une petite surprise.",
+            "ar": "بيع الأشياء القديمة يجلب نقودًا إضافية. ستتلقى مفاجأة من بيع المستعملات."
+        }
+    },
+    {
+        "score": 59,
+        "text": {
+            "zh": "别跟风消费。适合你的才是真正值得的。",
+            "zh_Hant": "別跟風消費。適合你的才是真正值得的。",
+            "en": "Don’t follow the crowd when spending. Only what suits you is truly worth it.",
+            "ko": "다른 사람 따라 소비하지 마세요. 당신에게 맞는 것만 진정으로 가치가 있어요.",
+            "ja": "流行に流されて消費するな。自分に合ったものだけが本当に価値がある。",
+            "de": "Folge nicht dem Trend beim Ausgeben. Nur was zu dir passt, ist wirklich wertvoll.",
+            "es": "No gastes por moda. Solo lo que te conviene es realmente valioso.",
+            "fr": "Ne dépense pas par mimétisme. Ce qui te convient est vraiment valable.",
+            "ar": "لا تتبع التيارات عند الإنفاق. ما يناسبك هو المفيد حقًا."
+        }
+    },
+    {
+        "score": 81,
+        "text": {
+            "zh": "理财小调整见效。优化储蓄比例会更安心。",
+            "zh_Hant": "理財小調整見效。優化儲蓄比例會更安心。",
+            "en": "Small adjustments to finances work. Optimizing savings ratio brings more peace.",
+            "ko": "재테크의 작은 조정이 효과적이에요. 저축 비율을 최적화하면 마음이 더 안심됩니다.",
+            "ja": "資産運用の小さな調整が功を奏す。貯蓄率の最適化で安心感が増す。",
+            "de": "Kleine Änderungen bei der Finanzplanung helfen. Optimieren des Sparanteils beruhigt.",
+            "es": "Pequeños ajustes en las finanzas funcionan. Optimizar la proporción de ahorro te calma.",
+            "fr": "Petits ajustements financiers efficaces. Optimiser le taux d’épargne apporte sérénité.",
+            "ar": "تعديلات صغيرة في التمويل تؤدي ثمارها. تحسين نسبة الادخار يمنحك راحة."
+        }
+    },
+    {
+        "score": 66,
+        "text": {
+            "zh": "避免冲动买单。先等24小时，再决定要不要买。",
+            "zh_Hant": "避免衝動買單。先等24小時，再決定要不要買。",
+            "en": "Avoid impulsive purchases. Wait 24 hours before making a decision.",
+            "ko": "충동 구매를 피하세요. 24시간을 기다린 후 구매 여부를 결정하세요.",
+            "ja": "衝動買いを避けよう。24時間待ってから購入を決める。",
+            "de": "Vermeide impulsive Käufe. Warte 24 Stunden, bevor du entscheidest.",
+            "es": "Evita compras impulsivas. Espera 24 horas antes de decidirte.",
+            "fr": "Évite les achats impulsifs. Attends 24 heures avant de décider.",
+            "ar": "تجنب المشتريات الاندفاعية. انتظر 24 ساعة قبل اتخاذ القرار."
+        }
+    },
+    {
+        "score": 71,
+        "text": {
+            "zh": "今日适合存钱。每一笔小储蓄，都是未来的底气。",
+            "zh_Hant": "今日適合存錢。每一筆小儲蓄，都是未來的底氣。",
+            "en": "Today is good for saving. Every small deposit is your future confidence.",
+            "ko": "오늘은 저축하기 좋은 날이에요. 작은 저축마다 미래의 자신감이 됩니다.",
+            "ja": "今日は貯金日和。小さな貯蓄一つ一つが、未来の自信になる。",
+            "de": "Heute ist ein guter Tag zum Sparen. Jede kleine Einzahlung stärkt dein Selbstvertrauen.",
+            "es": "Hoy es buen día para ahorrar. Cada pequeño depósito es tu confianza futura.",
+            "fr": "Aujourd’hui est idéal pour épargner. Chaque petit dépôt est ta confiance future.",
+            "ar": "اليوم يوم جيد للادخار. كل إيداع صغير هو ثقتك في المستقبل."
+        }
+    },
+    {
+        "score": 61,
+        "text": {
+            "zh": "别借债消费。量力而行，才是长久之道。",
+            "zh_Hant": "別借債消費。量力而行，才是長久之道。",
+            "en": "Don’t borrow money to spend. Live within your means for long-term stability.",
+            "ko": "빚을 내서 소비하지 마세요. 자신의 능력에 맞게 살아야 장기적인 안정이 있어요.",
+            "ja": "借金して消費するな。自分の能力に合わせて生きるのが長続きする道。",
+            "de": "Lehne nicht Geld, um es auszugeben. Lebe nach deinen Möglichkeiten für Stabilität.",
+            "es": "No prestes dinero para gastar. Vivir según tus posibilidades es la clave a largo plazo.",
+            "fr": "Ne prête pas pour dépenser. Vivre selon ses moyens est la voie durable.",
+            "ar": "لا اقترض المال للإنفاق. العيش حسب قدرتك هو الطريق الدائم."
+        }
+    },
+    {
+        "score": 56,
+        "text": {
+            "zh": "财运藏在细节里。记账时别漏记那些小额支出。",
+            "zh_Hant": "財運藏在細節里。記賬時別漏記那些小額支出。",
+            "en": "Fortune hides in details. Don’t miss small expenses when keeping accounts.",
+            "ko": "재물운은 세부 사항에 숨어있어요. 가계부를 쓸 때 소액 지출을 누락하지 마세요.",
+            "ja": "金運は細部に宿る。家計簿をつけるとき、小口の出費を漏らさない。",
+            "de": "Glück liegt in den Details. Vermisse keine kleinen Ausgaben bei der Buchführung.",
+            "es": "La fortuna se esconde en los detalles. No olvides los gastos pequeños al hacer cuentas.",
+            "fr": "La chance se cache dans les détails. Ne manquez pas les petites dépenses au compte.",
+            "ar": "الحظ المالي يختبئ في التفاصيل. لا تنسى المصروفات الصغيرة عند الحساب."
+        }
+    },
+    {
+        "score": 73,
+        "text": {
+            "zh": "尝试货比三家。同一件商品，会有更优惠的价格。",
+            "zh_Hant": "嘗試貨比三家。同一件商品，會有更優惠的價格。",
+            "en": "Compare prices across stores. The same item can be cheaper elsewhere.",
+            "ko": "여러 가게 가격을 비교해보세요. 같은 상품이 더 저렴한 가격으로 구할 수 있어요.",
+            "ja": "三家に問うて価格を比べよう。同じ商品でも、よりお得な価格がある。",
+            "de": "Vergleiche Preise in verschiedenen Geschäften. Das gleiche Produkt kann günstiger sein.",
+            "es": "Compara precios en varias tiendas. El mismo artículo puede ser más barato.",
+            "fr": "Compare les prix dans plusieurs magasins. Le même article peut être moins cher.",
+            "ar": "قارن الأسعار في متاجر متعددة. نفس المنتج يمكن أن يكون بأسعار أفضل."
+        }
+    },
+    {
+        "score": 80,
+        "text": {
+            "zh": "副业有新机会。多一份收入，多一份保障。",
+            "zh_Hant": "副業有新機會。多一份收入，多一份保障。",
+            "en": "New side hustle opportunities arise. Extra income means extra security.",
+            "ko": "부업에 새로운 기회가 생겨요. 수입이 늘면 보장도 늘어나요.",
+            "ja": "副業に新たな機会が訪れる。収入が増えれば、保障も増す。",
+            "de": "Neue Möglichkeiten für Nebenjobs tauchen auf. Mehr Einkommen = mehr Sicherheit.",
+            "es": "Nuevas oportunidades de trabajo secundario surgen. Ingreso extra = seguridad extra.",
+            "fr": "De nouvelles opportunités de boulot secondaire apparaissent. Revenu supplémentaire = sécurité supplémentaire.",
+            "ar": "تظهر فرص عمل إضافي جديدة. دخل إضافي يعني أمانًا إضافيًا."
+        }
+    },
+    {
+        "score": 57,
+        "text": {
+            "zh": "别囤太多货。按需购买，才不会造成浪费。",
+            "zh_Hant": "別囤太多貨。按需購買，才不會造成浪費。",
+            "en": "Don’t hoard too many goods. Buy only what you need to avoid waste.",
+            "ko": "물건을 너무 많이 쌓아두지 마세요. 필요한 만큼만 구매하면 낭비를 줄일 수 있어요.",
+            "ja": "品をたくさんストックするな。必要な分だけ買えば、無駄にならない。",
+            "de": "Häufige nicht zu viele Waren an. Kaufe nur, was du brauchst, um Verschwendung zu vermeiden.",
+            "es": "No acumules demasiados productos. Compra solo lo que necesites para evitar desperdicios.",
+            "fr": "Ne stocke pas trop de marchandises. Achete seulement ce dont tu as besoin pour éviter le gaspillage.",
+            "ar": "لا تكدس الكثير من السلع. اشترِ فقط ما تحتاجه لتجنب النفايات."
+        }
+    },
+    {
+        "score": 67,
+        "text": {
+            "zh": "今日财运平稳。适合维持现状，不宜做大变动。",
+            "zh_Hant": "今日財運平穩。適合維持現狀，不宜做大變動。",
+            "en": "Today’s fortune is steady. Maintain the status quo, avoid major changes.",
+            "ko": "오늘 재물운은 안정적이에요. 현 상태를 유지하는 것이 좋고 큰 변동은 피하세요.",
+            "ja": "今日の金運は安定。現状維持が吉で、大きな変更は避けた方が良い。",
+            "de": "Heute ist das Finanzglück stabil. Halte den Status quo, vermeide große Änderungen.",
+            "es": "La fortuna de hoy es estable. Mantén el statu quo, evita cambios importantes.",
+            "fr": "La chance d’aujourd’hui est stable. Maintiens le statu quo, évite les grands changements.",
+            "ar": "الحظ المالي اليوم مستقر. احتفظ بالوضع الحالي، وتجنب التغييرات الكبيرة."
+        }
+    },
+    {
+        "score": 83,
+        "text": {
+            "zh": "长期定投见成效。坚持下去，会有不错的回报。",
+            "zh_Hant": "長期定投見成效。堅持下去，會有不錯的回報。",
+            "en": "Long-term fixed investment pays off. Keep going for good returns.",
+            "ko": "장기 정기 투자가 효과를 보여요. 꾸준히 하면 좋은 수익을 얻을 수 있습니다.",
+            "ja": "長期定投で成果が出る。継続すれば、不悪なリターンが得られる。",
+            "de": "Langfristige regelmäßige Investitionen lohnen sich. Bleib dran für gute Renditen.",
+            "es": "La inversión fija a largo plazo rinde frutos. Sigue adelante para buenos rendimientos.",
+            "fr": "L’investissement fixe à long terme porte ses fruits. Persévère pour de bons rendements.",
+            "ar": "الاستثمار الثابت طويل الأمد ينجح. استمر لتحصل على عوائد جيدة."
+        }
+    },
+    {
+        "score": 78,
+        "text": {
+            "zh": "学会断舍离。清理不必要的开支，财运会更顺畅。",
+            "zh_Hant": "學會斷捨離。清理不必要的開支，財運會更順暢。",
+            "en": "Learn to let go of excess. Cut unnecessary expenses for smoother fortune.",
+            "ko": "단사리(斷舍離)를 배우세요. 불필요한 지출을 줄이면 재물운이 더 원활해져요.",
+            "ja": "断捨離を学ぼう。不要な出費を削減すれば、金運はよりスムーズになる。",
+            "de": "Lerne, überflüssiges loszulassen. Kürze unnötige Ausgaben für besseres Finanzglück.",
+            "es": "Aprende a deshacerte de lo excesivo. Corta gastos innecesarios para una fortuna más fluida.",
+            "fr": "Apprends à te débarrasser de l’excédent. Coupe les dépenses inutiles pour une chance plus fluide.",
+            "ar": "تعلم التخلص من الزائد. قطع المصروفات غير الضرورية لتحسين الحظ المالي."
+        }
+    },
+    {
+        "score": 84,
+        "text": {
+            "zh": "开源节流双管齐下。赚钱和省钱同样重要。",
+            "zh_Hant": "開源節流雙管齊下。賺錢和省錢同樣重要。",
+            "en": "Increase income and cut expenses together. Earning and saving are equally important.",
+            "ko": "수입을 늘리고 지출을 줄이는 두 가지 방법을 함께 사용하세요. 돈을 벌고 아끼는 것은 똑같이 중요해요.",
+            "ja": "収入を増やし支出を減らす両輪。稼ぐことも貯めることも同じくらい重要。",
+            "de": "Einkommen steigern und Ausgaben senken – beide sind gleich wichtig.",
+            "es": "Aumenta los ingresos y reduce los gastos. Ganar y ahorrar son igualmente importantes.",
+            "fr": "Augmente les revenus et réduis les dépenses. Gagner et économiser sont aussi importants.",
+            "ar": "ارفع الدخل وقلل النفقات معًا. الكسب والتوفير مهمان بنفس القدر."
+        }
+    },
+    {
+        "score": 71,
+        "text": {
+            "zh": "旧债可以结清。还清欠款，财运会迎来新转机。",
+            "zh_Hant": "舊債可以結清。還清欠款，財運會迎來新轉機。",
+            "en": "Old debts can be paid off. Clearing them brings new financial opportunities.",
+            "ko": "오래된 빚을 갚을 수 있어요. 빚을 다 갚으면 재물운에 새로운 전환점이 생겨요.",
+            "ja": "古い借金を完済できる。借金を返せば、金運に新たな転機が訪れる。",
+            "de": "Alte Schulden können beglichen werden. Ihre Tilgung bringt neue finanzielle Chancen.",
+            "es": "Las deudas antiguas se pueden pagar. Liquidarlas trae nuevas oportunidades financieras.",
+            "fr": "Les anciennes dettes peuvent être remboursées. Les liquider apporte de nouvelles opportunités financières.",
+            "ar": "الديون القديمة يمكن سدادها. سداد الدين يفتح فرصًا مالية جديدة."
+        }
+    },
+    {
+        "score": 60,
+        "text": {
+            "zh": "避免夜间购物。晚上的消费欲望更容易失控。",
+            "zh_Hant": "避免夜間購物。晚上的消費欲望更容易失控。",
+            "en": "Avoid shopping at night. Spending urges are easier to lose control of after dark.",
+            "ko": "밤에 쇼핑하는 것을 피하세요. 밤에는 소비 욕구가 더 쉽게 통제를 벗어날 수 있어요.",
+            "ja": "夜間のショッピングを避けよう。夜は消費欲がコントロールしにくくなる。",
+            "de": "Vermeide Nacht-Shopping. Ausgabenwünsche sind nachts leichter unkontrollierbar.",
+            "es": "Evita comprar por la noche. Los impulsos de gasto son más difíciles de controlar.",
+            "fr": "Évite les achats nocturnes. Les envies de dépenser sont plus difficiles à contrôler la nuit.",
+            "ar": "تجنب التسوق ليلاً. dürge欲望 الإنفاق تصبح أكثر عرضة للانكماش ليلاً."
+        }
+    },
+    {
+        "score": 75,
+        "text": {
+            "zh": "财运在稳步上升。保持耐心，好事会慢慢发生。",
+            "zh_Hant": "財運在穩步上升。保持耐心，好事會慢慢發生。",
+            "en": "Fortune is rising steadily. Be patient, good things will happen gradually.",
+            "ko": "재물운이 꾸준히 상승하고 있어요. 인내심을 가지면 좋은 일이 천천히 일어날 거예요.",
+            "ja": "金運は着実に上昇中。忍耐強く待てば、良いことが徐々に起こる。",
+            "de": "Das Finanzglück steigt stetig. Sei geduldig, gute Dinge geschehen langsam.",
+            "es": "La fortuna está subiendo constantemente. Sé paciente, las cosas buenas sucederán gradualmente.",
+            "fr": "La chance monte régulièrement. Sois patient, les bonnes choses arrivent petit à petit.",
+            "ar": "الحظ المالي يرتفع بثبات. كن صبورًا، ستحدث الأشياء الجيدة تدريجيًا."
+        }
+    },
+    {
+        "score": 72,
+        "text": {
+            "zh": "尝试自制饮品和餐食。能省下不少餐饮开支。",
+            "zh_Hant": "嘗試自製飲品和餐食。能省下不少餐飲開支。",
+            "en": "Try making drinks and meals at home. Save a lot on food and beverage costs.",
+            "ko": "직접 음료와 식사를 만들어보세요. 식음료 비용을 많이 아낄 수 있어요.",
+            "ja": "自家製の飲み物や食事に挑戦しよう。外食代をかなり節約できる。",
+            "de": "Versuche, Getränke und Mahlzeiten zu Hause zu machen. Sparen Sie viel bei Essens- und Getränkekosten.",
+            "es": "Intenta hacer bebidas y comidas en casa. Ahorra mucho en gastos de restaurantes.",
+            "fr": "Essaye de faire des boissons et des repas à la maison. Économise beaucoup sur les repas.",
+            "ar": "حاول صنع المشروبات والأطعمة في المنزل. توفير الكثير من نفقات الطعام والمشروبات."
+        }
+    },
+    {
+        "score": 64,
+        "text": {
+            "zh": "消费前先问自己：这是需要还是想要？答案会很清晰。",
+            "zh_Hant": "消費前先問自己：這是需要還是想要？答案會很清晰。",
+            "en": "Before spending, ask: Need or want? The answer will be clear.",
+            "ko": "소비하기 전에 스스로에게 묻고: 필요한 것인가, 원하는 것인가? 답이 명확해질 거예요.",
+            "ja": "消費前に自問自答：必要か欲しいだけか？答えは明確になる。",
+            "de": "Vor dem Ausgeben frag: Brauche ich es oder will ich es? Die Antwort ist klar.",
+            "es": "Antes de gastar, pregúntate: ¿Necesito o quiero? La respuesta será clara.",
+            "fr": "Avant de dépenser, demande-toi: Besoin ou envie? La réponse sera claire.",
+            "ar": "قبل الإنفاق، اسأل نفسك: هل هو ضروري أم مطلوب؟ الإجابة ستكون واضحة."
+        }
+    },
+    {
+        "score": 75,
+        "text": {
+            "zh": "今日财运小幅上扬。小笔投资能有小额回报。",
+            "zh_Hant": "今日財運小幅上揚。小筆投資能有小額回報。",
+            "en": "Today’s fortune rises slightly. Small investments bring small returns.",
+            "ko": "오늘 재물운이 약간 상승해요. 소액 투자로 소액 수익을 얻을 수 있어요.",
+            "ja": "今日の金運は小幅に上昇。小口投資で小口のリターンが得られる。",
+            "de": "Heutes Finanzglück steigt leicht an. Kleine Investitionen bringen kleine Renditen.",
+            "es": "La fortuna sube ligeramente hoy. Pequeñas inversiones traen pequeños rendimientos.",
+            "fr": "La chance monte légèrement aujourd’hui. Petites investissements apportent petits rendements.",
+            "ar": "الحظ المالي يرتفع قليلاً اليوم. الاستثمارات الصغيرة تجلب عوائد صغيرة."
+        }
+    },
+    {
+        "score": 57,
+        "text": {
+            "zh": "别为了面子花钱。真实的舒适，比别人的眼光重要。",
+            "zh_Hant": "別為了面子花錢。真實的舒適，比別人的眼光重要。",
+            "en": "Don’t spend for pride. True comfort matters more than others’ opinions.",
+            "ko": "체면을 위해 돈을 쓰지 마세요. 진정한 편안함이 타인의 시선보다 중요해요.",
+            "ja": "体裁のためにお金を使うな。本当の快適さが他人の目より重要。",
+            "de": "Gib nicht für Ehre aus. Wahre Behaglichkeit zählt mehr als andere Meinungen.",
+            "es": "No gastes por orgullo. La verdadera comodidad importa más que las opiniones ajenas.",
+            "fr": "Ne dépense pas pour la fierté. Le vrai confort importe plus que les regards des autres.",
+            "ar": "لا تنفق من أجل الكبرياء. الراحة الحقيقية أهم من نظرات الآخرين."
+        }
+    },
+    {
+        "score": 80,
+        "text": {
+            "zh": "整理财务账单。理清账目，才能更好规划未来。",
+            "zh_Hant": "整理財務賬單。理清賬目，才能更好規劃未來。",
+            "en": "Organize financial bills. Clear accounts enable better future planning.",
+            "ko": "재정 청구서를 정리하세요. 계정을 명확히 하면 미래를 더 잘 계획할 수 있어요.",
+            "ja": "財務の請求書を整理せよ。勘定を明確にすれば、未来をよりよく計画できる。",
+            "de": "Ordne Finanzrechnungen. Klare Rechnungen ermöglichen bessere Zukunftspläne.",
+            "es": "Organiza las facturas financieras. Cuentas claras permiten una mejor planificación futura.",
+            "fr": "Organise les factures financières. Des comptes clairs permettent une meilleure planification future.",
+            "ar": "رتب الفواتير المالية. الحسابات الواضحة تمكّن من التخطيط أفضل للمستقبل."
+        }
+    },
+    {
+        "score": 67,
+        "text": {
+            "zh": "今日适合现金支付。看得见的钱，能提醒自己理性消费。",
+            "zh_Hant": "今日適合現金支付。看得見的錢，能提醒自己理性消費。",
+            "en": "Cash payment is better today. Visible money reminds you to spend rationally.",
+            "ko": "오늘은 현금 결제가 좋아요. 보이는 돈이 합리적인 소비를 상기시켜줘요.",
+            "ja": "今日は現金支払いが吉。目に見えるお金が、理性的な消費を促す。",
+            "de": "Barzahlung ist heute besser. Sichtbares Geld erinnert dich an vernünftiges Ausgeben.",
+            "es": "El pago en efectivo es mejor hoy. El dinero visible te recuerda gastar racionalmente.",
+            "fr": "Le paiement en espèces est mieux aujourd’hui. L’argent visible te rappelle de dépenser rationnellement.",
+            "ar": "الدفع النقدي أفضل اليوم. المال المرئي يذكرك بالإنفاق العقلاني."
+        }
+    },
+    {
+        "score": 73,
+        "text": {
+            "zh": "闲置的会员卡可以注销。减少无用支出，财运更清透。",
+            "zh_Hant": "閒置的會員卡可以註銷。減少無用支出，財運更清透。",
+            "en": "Cancel unused membership cards. Cut useless expenses for clearer fortune.",
+            "ko": "안 쓰는 멤버십 카드를 취소하세요. 쓸모없는 지출을 줄이면 재물운이 더 깨끗해져요.",
+            "ja": "使っていない会員カードを解約せよ。無駄な出費を減らせば、金運が冴える。",
+            "de": "Kündige ungenutzte Mitgliedskarten. Kürze nutzlose Ausgaben für besseres Finanzglück.",
+            "es": "Cancela tarjetas de membresía sin usar. Corta gastos inútiles para una fortuna más clara.",
+            "fr": "Annule les cartes de membre inutilisées. Coupe les dépenses inutiles pour une chance plus claire.",
+            "ar": "ألغِ بطاقات العضوية غير المستخدمة. خفض النفقات غير المفيدة لتحسين الحظ المالي."
+        }
+    },
+    {
+        "score": 61,
+        "text": {
+            "zh": "别贪小便宜买次品。一分钱一分货，长远看更省钱。",
+            "zh_Hant": "別貪小便宜買次品。一分錢一分貨，長遠看更省錢。",
+            "en": "Don’t buy cheap low-quality goods. You get what you pay for, saving more long-term.",
+            "ko": "값싼 불량품을 살 생각하지 마세요. 값이면 값대로 품질이 있고 장기적으로 더 아낄 수 있어요.",
+            "ja": "安物買いの銭失いをするな。一分の値段一分の品、長期的にはより節約になる。",
+            "de": "Kaufe keine billigen minderwertigen Waren. Man bekommt was man zahlt – spart langfristig mehr.",
+            "es": "No compres productos baratos de baja calidad. Lo barato sale caro, ahorras más a largo plazo.",
+            "fr": "N’achète pas de produits bon marché de mauvaise qualité. Ce qui est bon marché coûte cher, économise plus à long terme.",
+            "ar": "لا تشترِ سلعًا رخيصة ذات جودة منخفضة. كل سنتيم ي karşل جودته، وتوفير أكثر على المدى الطويل."
+        }
+    },
+    {
+        "score": 77,
+        "text": {
+            "zh": "今日财运中性。不激进不保守，按计划行事即可。",
+            "zh_Hant": "今日財運中性。不激進不保守，按計劃行事即可。",
+            "en": "Today’s fortune is neutral. No radical moves, no conservatism – stick to plans.",
+            "ko": "오늘 재물운은 중립적이에요. 과격하지도 보수적이지도 않고 계획대로 하면 됩니다.",
+            "ja": "今日の金運は中性。過激でも保守的でもなく、計画通りに行動すればよい。",
+            "de": "Heutes Finanzglück ist neutral. Keine radikalen Schritte, kein Konservatismus – bleibe am Plan.",
+            "es": "La fortuna de hoy es neutra. Sin movimientos radicales ni conservadurismo, sigue los planes.",
+            "fr": "La chance d’aujourd’hui est neutre. Pas de mouvements radicaux, pas de conservatisme – suivez les plans.",
+            "ar": "الحظ المالي اليوم محايد. لا حركات متطرفة ولا تقليدية، اتبع الخطط فقط."
+        }
+    },
+    {
+        "score": 59,
+        "text": {
+            "zh": "避免参加高消费的聚会。量力而行，不勉强自己。",
+            "zh_Hant": "避免參加高消費的聚會。量力而行，不勉強自己。",
+            "en": "Avoid high-spending gatherings. Do what you can, don’t force yourself.",
+            "ko": "고소비 모임에 참석하는 것을 피하세요. 자신의 능력에 맞게 하고 스스로를 강요하지 마세요.",
+            "ja": "高消費の集まりに参加するな。自分の能力に合わせて、無理をしない。",
+            "de": "Vermeide teure Zusammenkünfte. Mach was du kannst, zwinge dich nicht.",
+            "es": "Evita reuniones de alto gasto. Haz lo que puedas, no te forces.",
+            "fr": "Évite les rassemblements à forte dépense. Fais ce que tu peux, ne te forces pas.",
+            "ar": "تجنب الحضور إلى اجتماعات بإنفاق عالٍ. افعل ما تستطيع، لا تضغط على نفسك."
+        }
+    },
+    {
+        "score": 82,
+        "text": {
+            "zh": "学习基础的理财知识。懂钱，才能更好地掌控钱。",
+            "zh_Hant": "學習基礎的理財知識。懂錢，才能更好地掌控錢。",
+            "en": "Learn basic financial knowledge. Understand money to control it better.",
+            "ko": "기초적인 재테크 지식을 배우세요. 돈을 이해해야 돈을 더 잘 통제할 수 있어요.",
+            "ja": "基礎的な資産運用の知識を学べ。お金を理解すれば、よりよくコントロールできる。",
+            "de": "Lerne grundlegendes Finanzwissen. Verstehe Geld, um es besser zu kontrollieren.",
+            "es": "Aprende conocimientos financieros básicos. Entiende el dinero para controlarlo mejor.",
+            "fr": "Apprends les connaissances financières de base. Comprends l’argent pour le contrôler mieux.",
+            "ar": "تعلم المعرفة المالية الأساسية. فهم المال يسمح لك بالتحكم فيه بشكل أفضل."
+        }
+    },
+    {
+        "score": 73,
+        "text": {
+            "zh": "今日有小笔进账。积少成多，也是不错的收获。",
+            "zh_Hant": "今日有小筆進賬。積少成多，也是不錯的收穫。",
+            "en": "A small sum comes in today. Every little bit adds up to a good gain.",
+            "ko": "오늘 소액 수입이 들어올 수 있어요. 조금씩 모으면 좋은 수익이 됩니다.",
+            "ja": "今日は小口の入金がある。少しずつ積めば、不悪な収穫になる。",
+            "de": "Eine kleine Summe kommt heute rein. Jeder kleine Betrag summiert sich zu einem guten Gewinn.",
+            "es": "Una pequeña suma ingresa hoy. Cada poquito suma a una buena ganancia.",
+            "fr": "Une petite somme entre aujourd’hui. Chaque petit peu s’ajoute pour un bon gain.",
+            "ar": "يأتي مبلغ صغير اليوم. كل قليل يضيف إلى مكاسب جيدة."
+        }
+    },
+    {
+        "score": 54,
+        "text": {
+            "zh": "财运稍弱。减少非必要消费，守住现有的就好。",
+            "zh_Hant": "財運稍弱。減少非必要消費，守住現有的就好。",
+            "en": "Fortune is slightly weak. Cut non-essential spending, hold onto what you have.",
+            "ko": "재물운이 약간 약해요. 비필수 소비를 줄이고 현재 가진 것을 지키면 됩니다.",
+            "ja": "金運はやや弱い。非必須の消費を減らし、今持っているものを守ればよい。",
+            "de": "Finanzglück ist leicht schwach. Kürze nicht notwendiges Ausgeben, halte was du hast.",
+            "es": "La fortuna es ligeramente débil. Corta gastos no esenciales, mantén lo que tienes.",
+            "fr": "La chance est légèrement faible. Coupe les dépenses non essentielles, garde ce que tu as.",
+            "ar": "الحظ المالي ضعيف قليلاً. خفض الإنفاق غير الضروري، واحتفظ بما لديك."
+        }
+    },
+    {
+        "score": 70,
+        "text": {
+            "zh": "别轻信高收益的投资。天上不会掉馅饼，谨慎为上。",
+            "zh_Hant": "別輕信高收益的投資。天上不會掉餡餅，謹慎為上。",
+            "en": "Don’t trust high-return investments blindly. No free lunch, be cautious.",
+            "ko": "고수익 투자를 맹목적으로 믿지 마세요. 공짜 점심은 없으니 조심하세요.",
+            "ja": "高リターンの投資を盲信するな。天下りたての餅はない、慎重にせよ。",
+            "de": "Vertraue nicht blind hohen Rendite-Investitionen. Es gibt kein kostenloses Mittagessen, sei vorsichtig.",
+            "es": "No confíes ciegamente en inversiones de alto retorno. No hay almuerzo gratis, sé cauteloso.",
+            "fr": "Ne crois pas aveuglément aux investissements à haut rendement. Pas de repas gratuit, sois prudent.",
+            "ar": "لا تثق بشكل أعمى بالاستثمارات عالية العائد. لا يوجد وجبة مجانية، كن حذرًا."
+        }
+    },
+    {
+        "score": 74,
+        "text": {
+            "zh": "今日适合捐赠小额善款。积德行善，财运也会更顺。",
+            "zh_Hant": "今日適合捐贈小額善款。積德行善，財運也會更順。",
+            "en": "Donate a small charity sum today. Do good deeds for smoother fortune.",
+            "ko": "오늘은 소액 기부를 하는 것이 좋아요. 착한 일을 하면 재물운도 더 원활해져요.",
+            "ja": "今日は小口の慈善寄付に向いている。善行を積めば、金運もより順調になる。",
+            "de": "Spende heute einen kleinen Betrag für wohltätige Zwecke. Gute Taten bringen besseres Finanzglück.",
+            "es": "Dona una pequeña suma benéfica hoy. Haz buenas acciones para una fortuna más fluida.",
+            "fr": "Fais un petit don caritatif aujourd’hui. Fais de bonnes actions pour une chance plus fluide.",
+            "ar": "تبرع بمبلغ صغير للأعمال الخيرية اليوم. قم بأعمال خيرية لتحسين الحظ المالي."
+        }
+    }
+]
