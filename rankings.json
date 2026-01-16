@@ -702,15 +702,6 @@
     "regionCode": "AE"
   },
   {
-    "uid": "69472091-537B-4BC4-89B8-898F933D1BF9",
-    "username": "LuckyBear60",
-    "score": 54,
-    "level": 4,
-    "platform": "iOS",
-    "createAt": "2025-10-30T21:12:59.938036",
-    "regionCode": "KR"
-  },
-  {
     "uid": "604AA1F1-01B2-4C08-883A-44A0ECB54E36",
     "username": "CleverTiger696",
     "score": 51,
@@ -835,6 +826,15 @@
     "platform": "Android",
     "createAt": "2026-01-09T20:49:19.463298",
     "regionCode": "US"
+  },
+  {
+    "uid": "5d9ee2eb7adb3e9c",
+    "username": "CleverTiger534",
+    "score": 15,
+    "level": 3,
+    "platform": "Android",
+    "createAt": "2026-01-16T10:45:46.616867",
+    "regionCode": "EG"
   },
   {
     "uid": "18B5D9A4-C91E-420C-85ED-23ABEC11566B",
