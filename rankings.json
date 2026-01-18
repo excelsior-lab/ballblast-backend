@@ -288,21 +288,21 @@
     "regionCode": "US"
   },
   {
+    "uid": "44A3757E-6FF7-4FE9-AB0D-729D224370D2",
+    "username": "LuckyShark983",
+    "score": 8932,
+    "level": 23,
+    "platform": "iOS",
+    "createAt": "2026-01-17T18:06:39.842897",
+    "regionCode": "US"
+  },
+  {
     "uid": "3D104B31-B4AD-4D51-B687-8236D935B3FE",
     "username": "WildEagle382",
     "score": 8846,
     "level": 19,
     "platform": "iOS",
     "createAt": "2025-12-13T10:07:26.957623",
-    "regionCode": "US"
-  },
-  {
-    "uid": "68a9409fb538639d",
-    "username": "SilentWolf703",
-    "score": 8418,
-    "level": 21,
-    "platform": "Android",
-    "createAt": "2025-12-24T21:49:39.097489",
     "regionCode": "US"
   },
   {
@@ -702,30 +702,12 @@
     "regionCode": "AE"
   },
   {
-    "uid": "69472091-537B-4BC4-89B8-898F933D1BF9",
-    "username": "LuckyBear60",
-    "score": 54,
-    "level": 4,
-    "platform": "iOS",
-    "createAt": "2025-10-30T21:12:59.938036",
-    "regionCode": "KR"
-  },
-  {
     "uid": "604AA1F1-01B2-4C08-883A-44A0ECB54E36",
     "username": "CleverTiger696",
     "score": 51,
     "level": 4,
     "platform": "iOS",
     "createAt": "2025-12-05T14:46:41.413517",
-    "regionCode": "US"
-  },
-  {
-    "uid": "663AFFC8-90FA-4ED4-A928-D82380A7BE08",
-    "username": "SwiftLion503",
-    "score": 48,
-    "level": 4,
-    "platform": "iOS",
-    "createAt": "2025-11-18T23:54:49.354220",
     "regionCode": "US"
   },
   {
@@ -810,6 +792,15 @@
     "regionCode": "AF"
   },
   {
+    "uid": "044333a37eca6b5a",
+    "username": "CleverEagle0",
+    "score": 15,
+    "level": 3,
+    "platform": "Android",
+    "createAt": "2026-01-17T18:39:06.369126",
+    "regionCode": "GB"
+  },
+  {
     "uid": "3F6D2E7F-0CDA-4863-A403-1FBED8CD0D25",
     "username": "CleverBear743",
     "score": 15,
@@ -835,6 +826,15 @@
     "platform": "Android",
     "createAt": "2026-01-09T20:49:19.463298",
     "regionCode": "US"
+  },
+  {
+    "uid": "5d9ee2eb7adb3e9c",
+    "username": "CleverTiger534",
+    "score": 15,
+    "level": 3,
+    "platform": "Android",
+    "createAt": "2026-01-16T10:45:46.616867",
+    "regionCode": "EG"
   },
   {
     "uid": "18B5D9A4-C91E-420C-85ED-23ABEC11566B",
