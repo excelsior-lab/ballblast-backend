@@ -414,6 +414,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "05393C24-470D-481B-B4C4-3FAD6A56AB2E",
+    "username": "WildFalcon662",
+    "score": 1673,
+    "level": 12,
+    "platform": "iOS",
+    "createAt": "2026-01-19T20:39:12.919386",
+    "regionCode": "US"
+  },
+  {
     "uid": "5CF85EA3-4057-4244-A140-89550299BD03",
     "username": "WildFalcon11",
     "score": 1650,
@@ -645,15 +654,6 @@
     "level": 4,
     "platform": "iOS",
     "createAt": "2025-11-20T03:07:59.480052",
-    "regionCode": "US"
-  },
-  {
-    "uid": "642319EB-1B8E-481E-A990-9C9D3D51ECD1",
-    "username": "CleverEagle602",
-    "score": 103,
-    "level": 4,
-    "platform": "iOS",
-    "createAt": "2025-12-17T12:11:23.957093",
     "regionCode": "US"
   },
   {
