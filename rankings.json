@@ -711,6 +711,15 @@
     "regionCode": "RU"
   },
   {
+    "uid": "1067c791f263d641",
+    "username": "BraveBear510",
+    "score": 47,
+    "level": 4,
+    "platform": "Android",
+    "createAt": "2026-01-25T20:02:37.271260",
+    "regionCode": "DZ"
+  },
+  {
     "uid": "59910A3B-9D47-49C6-8B56-7FE53D9C64CC",
     "username": "MightyWolf657",
     "score": 47,
@@ -826,15 +835,6 @@
     "platform": "Android",
     "createAt": "2026-01-06T13:46:49.717013",
     "regionCode": "PH"
-  },
-  {
-    "uid": "5c40a163871fe433",
-    "username": "BraveWolf503",
-    "score": 15,
-    "level": 3,
-    "platform": "Android",
-    "createAt": "2026-01-09T20:49:19.463298",
-    "regionCode": "US"
   },
   {
     "uid": "18B5D9A4-C91E-420C-85ED-23ABEC11566B",
