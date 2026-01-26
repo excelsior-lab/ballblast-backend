@@ -387,6 +387,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "594aea9a3334e354",
+    "username": "HappyTiger110",
+    "score": 3606,
+    "level": 10,
+    "platform": "Android",
+    "createAt": "2026-01-26T21:41:56.158868",
+    "regionCode": "RU"
+  },
+  {
     "uid": "5614FF55-DB14-4E4E-A891-C03E4CD55A15",
     "username": "SwiftBear378",
     "score": 3542,
@@ -691,15 +700,6 @@
     "platform": "Android",
     "createAt": "2026-01-13T14:38:47.587535",
     "regionCode": "DE"
-  },
-  {
-    "uid": "594aea9a3334e354",
-    "username": "HappyTiger110",
-    "score": 55,
-    "level": 4,
-    "platform": "Android",
-    "createAt": "2026-01-18T15:57:02.928800",
-    "regionCode": "RU"
   },
   {
     "uid": "239c3420af1af6cd",
