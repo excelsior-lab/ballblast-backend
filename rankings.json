@@ -93,9 +93,9 @@
     "uid": "594aea9a3334e354",
     "username": "HappyTiger110",
     "score": 61732,
-    "level": 84,
+    "level": 87,
     "platform": "Android",
-    "createAt": "2026-01-29T16:12:06.020885",
+    "createAt": "2026-01-29T18:53:00.708298",
     "regionCode": "RU"
   },
   {
@@ -110,10 +110,10 @@
   {
     "uid": "05393C24-470D-481B-B4C4-3FAD6A56AB2E",
     "username": "WildFalcon662",
-    "score": 52733,
+    "score": 55956,
     "level": 69,
     "platform": "iOS",
-    "createAt": "2026-01-28T21:36:38.185958",
+    "createAt": "2026-01-29T07:14:37.272272",
     "regionCode": "US"
   },
   {
@@ -135,6 +135,15 @@
     "regionCode": "TR"
   },
   {
+    "uid": "1ACF5E7E-ED60-4AF7-A96F-1C0320AC683D",
+    "username": "HappyPanther314",
+    "score": 47193,
+    "level": 38,
+    "platform": "iOS",
+    "createAt": "2026-01-29T09:54:04.945970",
+    "regionCode": "US"
+  },
+  {
     "uid": "416BA97E-3FB9-4DA5-818B-3D699A505230",
     "username": "LuckyTiger336",
     "score": 41840,
@@ -151,15 +160,6 @@
     "platform": "iOS",
     "createAt": "2025-11-12T04:05:16.791767",
     "regionCode": "NO"
-  },
-  {
-    "uid": "1ACF5E7E-ED60-4AF7-A96F-1C0320AC683D",
-    "username": "HappyPanther314",
-    "score": 39647,
-    "level": 36,
-    "platform": "iOS",
-    "createAt": "2026-01-28T14:32:15.323671",
-    "regionCode": "US"
   },
   {
     "uid": "24E67750-DAC4-4A8B-9AA9-EEB1FF05C294",
@@ -626,7 +626,7 @@
     "score": 114,
     "level": 5,
     "platform": "Android",
-    "createAt": "2026-01-29T17:46:29.551385",
+    "createAt": "2026-01-29T18:47:04.976579",
     "regionCode": "US"
   },
   {
@@ -837,15 +837,6 @@
     "regionCode": "EG"
   },
   {
-    "uid": "33c8bcf75bc21351",
-    "username": "SilentTiger131",
-    "score": 13,
-    "level": 3,
-    "platform": "Android",
-    "createAt": "2026-01-10T01:02:48.784770",
-    "regionCode": "RO"
-  },
-  {
     "uid": "07deb29d7eec3848",
     "username": "CleverWolf766",
     "score": 5,
@@ -862,6 +853,15 @@
     "platform": "iOS",
     "createAt": "2025-11-16T21:16:45.386052",
     "regionCode": "AF"
+  },
+  {
+    "uid": "33c8bcf75bc21351",
+    "username": "LuckyBear900",
+    "score": 5,
+    "level": 2,
+    "platform": "Android",
+    "createAt": "2026-01-29T17:05:43.716955",
+    "regionCode": "RO"
   },
   {
     "uid": "4E3AFD6D-E5E7-4333-BFA8-4D56FB231839",
