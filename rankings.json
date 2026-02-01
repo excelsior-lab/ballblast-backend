@@ -180,6 +180,15 @@
     "regionCode": "PK"
   },
   {
+    "uid": "0354b9be4972f5e5",
+    "username": "WildBear866",
+    "score": 29169,
+    "level": 57,
+    "platform": "Android",
+    "createAt": "2026-02-01T13:50:56.802404",
+    "regionCode": "US"
+  },
+  {
     "uid": "1e6ad724bdc58b42",
     "username": "LuckyFalcon153",
     "score": 25791,
@@ -222,15 +231,6 @@
     "level": 45,
     "platform": "iOS",
     "createAt": "2025-12-22T14:10:18.981112",
-    "regionCode": "US"
-  },
-  {
-    "uid": "0354b9be4972f5e5",
-    "username": "WildBear866",
-    "score": 20131,
-    "level": 33,
-    "platform": "Android",
-    "createAt": "2026-01-31T08:30:54.192963",
     "regionCode": "US"
   },
   {
