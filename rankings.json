@@ -99,6 +99,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "233ce2070545d799",
+    "username": "HappyEagle836",
+    "score": 53234,
+    "level": 34,
+    "platform": "Android",
+    "createAt": "2026-02-13T23:58:44.287035",
+    "regionCode": "US"
+  },
+  {
     "uid": "4338e6c9a4a0a657",
     "username": "SilentLion635",
     "score": 51639,
@@ -169,15 +178,6 @@
     "platform": "iOS",
     "createAt": "2026-01-27T16:24:36.577384",
     "regionCode": "PK"
-  },
-  {
-    "uid": "233ce2070545d799",
-    "username": "HappyEagle836",
-    "score": 29338,
-    "level": 27,
-    "platform": "Android",
-    "createAt": "2026-02-13T23:06:34.528199",
-    "regionCode": "US"
   },
   {
     "uid": "0354b9be4972f5e5",
