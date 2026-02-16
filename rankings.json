@@ -153,6 +153,15 @@
     "regionCode": "NO"
   },
   {
+    "uid": "470F9110-FECD-48A1-8D21-0671781402F7",
+    "username": "Meriem",
+    "score": 37013,
+    "level": 94,
+    "platform": "iOS",
+    "createAt": "2026-02-16T20:41:05.615364",
+    "regionCode": "MA"
+  },
+  {
     "uid": "4DE2E424-9C08-4CB5-B1AC-85F6DCA17247",
     "username": "WildBear962",
     "score": 36217,
@@ -160,15 +169,6 @@
     "platform": "iOS",
     "createAt": "2026-02-01T01:48:13.530519",
     "regionCode": "NO"
-  },
-  {
-    "uid": "470F9110-FECD-48A1-8D21-0671781402F7",
-    "username": "Meriem",
-    "score": 35498,
-    "level": 64,
-    "platform": "iOS",
-    "createAt": "2026-02-16T00:49:31.132327",
-    "regionCode": "MA"
   },
   {
     "uid": "24E67750-DAC4-4A8B-9AA9-EEB1FF05C294",
