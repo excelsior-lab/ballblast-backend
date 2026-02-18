@@ -54,6 +54,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "470F9110-FECD-48A1-8D21-0671781402F7",
+    "username": "Meriem",
+    "score": 69412,
+    "level": 113,
+    "platform": "iOS",
+    "createAt": "2026-02-18T00:24:36.212277",
+    "regionCode": "MA"
+  },
+  {
     "uid": "2C546780-5921-4FA0-A388-2805398CD173",
     "username": "WildTiger357",
     "score": 63893,
@@ -151,15 +160,6 @@
     "platform": "iOS",
     "createAt": "2025-11-12T04:05:16.791767",
     "regionCode": "NO"
-  },
-  {
-    "uid": "470F9110-FECD-48A1-8D21-0671781402F7",
-    "username": "Meriem",
-    "score": 37795,
-    "level": 99,
-    "platform": "iOS",
-    "createAt": "2026-02-17T08:55:35.478649",
-    "regionCode": "MA"
   },
   {
     "uid": "24E67750-DAC4-4A8B-9AA9-EEB1FF05C294",
