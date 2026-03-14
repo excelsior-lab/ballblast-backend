@@ -216,15 +216,6 @@
     "regionCode": "US"
   },
   {
-    "uid": "3ff4fdf1c7de1629",
-    "username": "Mayson",
-    "score": 16810,
-    "level": 23,
-    "platform": "Android",
-    "createAt": "2026-01-22T16:17:40.212610",
-    "regionCode": "RU"
-  },
-  {
     "uid": "296AC7C0-537D-4E2C-AB4A-E274D4AE90CD",
     "username": "sandoukhan~",
     "score": 16436,
@@ -466,6 +457,15 @@
     "platform": "iOS",
     "createAt": "2026-02-22T18:45:18.362116",
     "regionCode": "FR"
+  },
+  {
+    "uid": "386B80A0-CDE2-45E3-9BFF-40B83AA18E7A",
+    "username": "SwiftEagle851",
+    "score": 963,
+    "level": 7,
+    "platform": "iOS",
+    "createAt": "2026-03-14T17:30:49.030304",
+    "regionCode": "IN"
   },
   {
     "uid": "3020A1AA-CDA7-44D3-9D9B-2ECAC0CA1463",
