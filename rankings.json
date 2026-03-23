@@ -212,7 +212,7 @@
     "score": 17061,
     "level": 48,
     "platform": "Android",
-    "createAt": "2026-03-22T14:45:53.597580",
+    "createAt": "2026-03-23T09:39:30.929956",
     "regionCode": "IN"
   },
   {
@@ -549,15 +549,6 @@
     "regionCode": "VN"
   },
   {
-    "uid": "3E9D0454-942F-43F5-862C-DF2FE187E093",
-    "username": "HappyFalcon121",
-    "score": 769,
-    "level": 6,
-    "platform": "iOS",
-    "createAt": "2025-11-23T17:24:46.680406",
-    "regionCode": "US"
-  },
-  {
     "uid": "2364d3d80c49beca",
     "username": "BraveBear554",
     "score": 753,
@@ -583,6 +574,15 @@
     "platform": "iOS",
     "createAt": "2026-03-21T13:37:40.114560",
     "regionCode": "IN"
+  },
+  {
+    "uid": "2415436D-206B-4172-8F2B-1547EB01D525",
+    "username": "SilentLion463",
+    "score": 663,
+    "level": 6,
+    "platform": "iOS",
+    "createAt": "2026-03-22T20:55:31.016675",
+    "regionCode": "SV"
   },
   {
     "uid": "0C32F9D9-CE57-4972-8420-9A0AC13A997A",
