@@ -108,6 +108,15 @@
     "regionCode": "SV"
   },
   {
+    "uid": "3628d47909d5f7df",
+    "username": "CleverWolf433",
+    "score": 35191,
+    "level": 61,
+    "platform": "Android",
+    "createAt": "2026-04-06T00:54:13.926574",
+    "regionCode": "EG"
+  },
+  {
     "uid": "24E67750-DAC4-4A8B-9AA9-EEB1FF05C294",
     "username": "MightyShark517",
     "score": 33000,
@@ -475,15 +484,6 @@
     "platform": "iOS",
     "createAt": "2026-02-20T07:50:17.345755",
     "regionCode": "US"
-  },
-  {
-    "uid": "3628d47909d5f7df",
-    "username": "CleverWolf433",
-    "score": 973,
-    "level": 7,
-    "platform": "Android",
-    "createAt": "2026-04-02T01:46:57.772003",
-    "regionCode": "EG"
   },
   {
     "uid": "358BD983-7706-4FD2-B887-4ACD2B7E3EED",
