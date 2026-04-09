@@ -63,6 +63,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "05147e6d8d1e9d43",
+    "username": "HappyFalcon444",
+    "score": 50123,
+    "level": 41,
+    "platform": "Android",
+    "createAt": "2026-04-09T16:57:59.649743",
+    "regionCode": "GB"
+  },
+  {
     "uid": "2dae611281cced6f",
     "username": "BraveWolf283",
     "score": 48408,
@@ -151,15 +160,6 @@
     "platform": "Android",
     "createAt": "2025-12-14T19:11:08.568444",
     "regionCode": "AM"
-  },
-  {
-    "uid": "05147e6d8d1e9d43",
-    "username": "HappyFalcon444",
-    "score": 23296,
-    "level": 36,
-    "platform": "Android",
-    "createAt": "2026-04-08T17:48:08.215954",
-    "regionCode": "GB"
   },
   {
     "uid": "2386C669-47C3-4BFB-9F5F-12611A017BBD",
@@ -536,7 +536,7 @@
     "score": 786,
     "level": 6,
     "platform": "Android",
-    "createAt": "2026-04-01T18:04:00.896425",
+    "createAt": "2026-04-09T18:11:46.678545",
     "regionCode": "IT"
   },
   {
@@ -752,7 +752,7 @@
     "score": 48,
     "level": 4,
     "platform": "Android",
-    "createAt": "2026-04-08T20:02:26.586165",
+    "createAt": "2026-04-09T17:34:40.326326",
     "regionCode": "LB"
   },
   {
