@@ -126,6 +126,15 @@
     "regionCode": "VN"
   },
   {
+    "uid": "2433DBE0-D053-4437-8FCC-FD2A81A56CFE",
+    "username": "CleverBear473",
+    "score": 32986,
+    "level": 50,
+    "platform": "iOS",
+    "createAt": "2026-04-30T08:36:25.521461",
+    "regionCode": "US"
+  },
+  {
     "uid": "278805C5-1F47-4304-8DB2-00858C3D0133",
     "username": "ODINDWATRI",
     "score": 31727,
@@ -889,14 +898,5 @@
     "platform": "Android",
     "createAt": "2026-03-08T20:15:48.040733",
     "regionCode": "ID"
-  },
-  {
-    "uid": "33c8bcf75bc21351",
-    "username": "LuckyBear900",
-    "score": 5,
-    "level": 2,
-    "platform": "Android",
-    "createAt": "2026-01-29T17:05:43.716955",
-    "regionCode": "RO"
   }
 ]
