@@ -72,6 +72,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "1984F325-0053-4468-B261-8BD1D2CD6E0F",
+    "username": "LuckyWolf839",
+    "score": 52680,
+    "level": 106,
+    "platform": "iOS",
+    "createAt": "2026-05-16T12:49:26.953938",
+    "regionCode": "US"
+  },
+  {
     "uid": "2dae611281cced6f",
     "username": "BraveWolf283",
     "score": 48408,
@@ -132,15 +141,6 @@
     "level": 50,
     "platform": "iOS",
     "createAt": "2026-04-30T08:36:25.521461",
-    "regionCode": "US"
-  },
-  {
-    "uid": "1984F325-0053-4468-B261-8BD1D2CD6E0F",
-    "username": "LuckyWolf839",
-    "score": 32436,
-    "level": 35,
-    "platform": "iOS",
-    "createAt": "2026-05-15T23:27:12.960540",
     "regionCode": "US"
   },
   {
