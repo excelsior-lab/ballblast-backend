@@ -306,6 +306,15 @@
     "regionCode": "FR"
   },
   {
+    "uid": "1890bb8cdd1a86e3",
+    "username": "MightyTiger76",
+    "score": 3967,
+    "level": 15,
+    "platform": "Android",
+    "createAt": "2026-05-25T15:22:16.969340",
+    "regionCode": "YE"
+  },
+  {
     "uid": "05670B07-9EFF-4622-B032-103342D39C8B",
     "username": "LuckyPanther562",
     "score": 3650,
@@ -547,15 +556,6 @@
     "platform": "Android",
     "createAt": "2025-11-28T20:01:57.357538",
     "regionCode": "US"
-  },
-  {
-    "uid": "1890bb8cdd1a86e3",
-    "username": "MightyTiger76",
-    "score": 728,
-    "level": 10,
-    "platform": "Android",
-    "createAt": "2026-05-25T02:43:10.774480",
-    "regionCode": "YE"
   },
   {
     "uid": "052B93ED-6565-40B6-A349-FFB62015704F",
