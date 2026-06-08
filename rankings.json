@@ -405,6 +405,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "29f40175ba72fc33",
+    "username": "trishcombs4",
+    "score": 1762,
+    "level": 10,
+    "platform": "Android",
+    "createAt": "2026-06-08T17:17:01.094485",
+    "regionCode": "US"
+  },
+  {
     "uid": "14BEB5B9-DBE2-4E91-82E0-1DB59DB6A41A",
     "username": "WildBear104",
     "score": 1578,
@@ -483,15 +492,6 @@
     "level": 8,
     "platform": "iOS",
     "createAt": "2025-12-22T03:20:47.215676",
-    "regionCode": "US"
-  },
-  {
-    "uid": "29f40175ba72fc33",
-    "username": "trishcombs4",
-    "score": 986,
-    "level": 7,
-    "platform": "Android",
-    "createAt": "2026-06-08T11:58:52.764609",
     "regionCode": "US"
   },
   {
