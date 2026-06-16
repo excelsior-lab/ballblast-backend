@@ -270,6 +270,15 @@
     "regionCode": "AF"
   },
   {
+    "uid": "29f40175ba72fc33",
+    "username": "trishcombs4",
+    "score": 11910,
+    "level": 24,
+    "platform": "Android",
+    "createAt": "2026-06-15T18:34:17.359472",
+    "regionCode": "US"
+  },
+  {
     "uid": "13c1ff4aa4f0aba7",
     "username": "SwiftFalcon796",
     "score": 9826,
@@ -402,15 +411,6 @@
     "level": 15,
     "platform": "Android",
     "createAt": "2026-04-16T03:34:31.958560",
-    "regionCode": "US"
-  },
-  {
-    "uid": "29f40175ba72fc33",
-    "username": "trishcombs4",
-    "score": 1864,
-    "level": 15,
-    "platform": "Android",
-    "createAt": "2026-06-14T19:29:01.924589",
     "regionCode": "US"
   },
   {
