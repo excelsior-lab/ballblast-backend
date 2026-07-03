@@ -54,6 +54,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "16110dc7bb1d855c",
+    "username": "CleverShark307",
+    "score": 64253,
+    "level": 97,
+    "platform": "Android",
+    "createAt": "2026-07-03T14:33:22.017875",
+    "regionCode": "IT"
+  },
+  {
     "uid": "2C546780-5921-4FA0-A388-2805398CD173",
     "username": "WildTiger357",
     "score": 63893,
@@ -79,15 +88,6 @@
     "platform": "Android",
     "createAt": "2025-11-25T21:20:53.246903",
     "regionCode": "US"
-  },
-  {
-    "uid": "16110dc7bb1d855c",
-    "username": "CleverShark307",
-    "score": 55522,
-    "level": 85,
-    "platform": "Android",
-    "createAt": "2026-07-02T18:10:49.251938",
-    "regionCode": "IT"
   },
   {
     "uid": "233ce2070545d799",
