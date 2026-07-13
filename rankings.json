@@ -117,6 +117,15 @@
     "regionCode": "US"
   },
   {
+    "uid": "180eb022b20c5fe9",
+    "username": "WildTiger415",
+    "score": 45754,
+    "level": 37,
+    "platform": "Android",
+    "createAt": "2026-07-13T18:34:07.814951",
+    "regionCode": "EG"
+  },
+  {
     "uid": "0AB44BFC-B2E1-4664-BC08-33B32FB34BA2",
     "username": "WildTiger919",
     "score": 40442,
@@ -303,6 +312,15 @@
     "level": 22,
     "platform": "iOS",
     "createAt": "2026-06-30T21:44:11.635961",
+    "regionCode": "IN"
+  },
+  {
+    "uid": "26F233D1-2610-4424-BF87-939D952794A5",
+    "username": "MightyPanther332",
+    "score": 5340,
+    "level": 16,
+    "platform": "iOS",
+    "createAt": "2026-07-13T19:33:47.885912",
     "regionCode": "IN"
   },
   {
@@ -621,15 +639,6 @@
     "regionCode": "US"
   },
   {
-    "uid": "2D8BBAC7-C41D-4A5E-AB40-CD6EB652749F",
-    "username": "SilentPanther943",
-    "score": 342,
-    "level": 5,
-    "platform": "iOS",
-    "createAt": "2025-12-16T19:35:37.290899",
-    "regionCode": "AF"
-  },
-  {
     "uid": "0c65902c423344c8",
     "username": "SilentTiger838",
     "score": 319,
@@ -693,15 +702,6 @@
     "regionCode": "US"
   },
   {
-    "uid": "2CAAF3EB-2359-4B90-B40B-C61075F49C2E",
-    "username": "WildBear553",
-    "score": 111,
-    "level": 5,
-    "platform": "iOS",
-    "createAt": "2025-12-22T21:52:56.179138",
-    "regionCode": "US"
-  },
-  {
     "uid": "19A25E95-C271-48AA-B27B-E74FC8196850",
     "username": "SwiftTiger491",
     "score": 109,
@@ -727,6 +727,15 @@
     "platform": "Android",
     "createAt": "2026-05-22T23:30:08.354474",
     "regionCode": "IT"
+  },
+  {
+    "uid": "1ffbb3bd176881da",
+    "username": "WildLion49",
+    "score": 77,
+    "level": 4,
+    "platform": "Android",
+    "createAt": "2026-07-13T16:39:16.027229",
+    "regionCode": "AE"
   },
   {
     "uid": "04ec3ded9ec2732a",
@@ -889,14 +898,5 @@
     "platform": "iOS",
     "createAt": "2026-05-25T16:44:41.311622",
     "regionCode": "MA"
-  },
-  {
-    "uid": "2CD45124-F809-4206-8998-768CCFB26237",
-    "username": "SilentEagle291",
-    "score": 5,
-    "level": 2,
-    "platform": "iOS",
-    "createAt": "2025-11-16T21:16:45.386052",
-    "regionCode": "AF"
   }
 ]
