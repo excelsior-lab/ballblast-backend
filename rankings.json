@@ -18,6 +18,15 @@
     "regionCode": "AF"
   },
   {
+    "uid": "0852e919c94e3f0a",
+    "username": "SwiftTiger834",
+    "score": 140226,
+    "level": 82,
+    "platform": "Android",
+    "createAt": "2026-07-22T10:50:38.167064",
+    "regionCode": "US"
+  },
+  {
     "uid": "1984F325-0053-4468-B261-8BD1D2CD6E0F",
     "username": "LuckyWolf839",
     "score": 89217,
@@ -43,15 +52,6 @@
     "platform": "Android",
     "createAt": "2026-05-12T15:47:45.656167",
     "regionCode": "GB"
-  },
-  {
-    "uid": "0852e919c94e3f0a",
-    "username": "SwiftTiger834",
-    "score": 78616,
-    "level": 76,
-    "platform": "Android",
-    "createAt": "2026-05-31T17:02:21.653161",
-    "regionCode": "US"
   },
   {
     "uid": "16110dc7bb1d855c",
