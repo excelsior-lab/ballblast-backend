@@ -243,15 +243,6 @@
     "regionCode": "PK"
   },
   {
-    "uid": "29f40175ba72fc33",
-    "username": "trishcombs4",
-    "score": 12395,
-    "level": 37,
-    "platform": "Android",
-    "createAt": "2026-07-07T19:38:20.070970",
-    "regionCode": "US"
-  },
-  {
     "uid": "13c1ff4aa4f0aba7",
     "username": "SwiftFalcon796",
     "score": 9826,
@@ -870,6 +861,15 @@
     "level": 2,
     "platform": "iOS",
     "createAt": "2026-06-21T16:15:11.430561",
+    "regionCode": "US"
+  },
+  {
+    "uid": "16B562A2-C16A-433D-8245-F6669C3FF811",
+    "username": "BraveFalcon695",
+    "score": 5,
+    "level": 2,
+    "platform": "iOS",
+    "createAt": "2026-08-02T12:23:13.080967",
     "regionCode": "US"
   },
   {
