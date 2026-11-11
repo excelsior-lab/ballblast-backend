@@ -513,15 +513,6 @@
     "regionCode": "AF"
   },
   {
-    "uid": "227081e7f8289fb7",
-    "username": "SilentWolf350",
-    "score": 786,
-    "level": 6,
-    "platform": "Android",
-    "createAt": "2026-04-20T22:27:01.556139",
-    "regionCode": "IT"
-  },
-  {
     "uid": "052B93ED-6565-40B6-A349-FFB62015704F",
     "username": "CleverBear511",
     "score": 694,
@@ -781,6 +772,15 @@
     "platform": "Android",
     "createAt": "2026-02-24T11:54:25.984062",
     "regionCode": "TR"
+  },
+  {
+    "uid": "196E0E5E-0A4E-41A9-AF90-B8B77DC9728C",
+    "username": "LuckyShark667",
+    "score": 21,
+    "level": 3,
+    "platform": "iOS",
+    "createAt": "2026-11-10T19:19:28.871250",
+    "regionCode": "US"
   },
   {
     "uid": "01F3FD8D-5E9F-4196-B483-C25396944536",
